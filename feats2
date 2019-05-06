@@ -1,0 +1,8202 @@
+star	4	NN	O
+of	2	IN	O
+thor	4	NN	B-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+	
+list	4	VV	O
+the	3	DT	O
+cast	4	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+in	2	IN	O
+twilight	8	NN	B-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+in	2	IN	O
+vulguria	8	NN	B-movie.name
+	
+actor	5	NN	O
+from	4	IN	O
+lost	4	VVN	B-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+rocky	5	JJ	B-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+captain	7	NN	B-movie.name
+america	7	NN	I-movie.name
+	
+cast	4	NN	O
+and	3	CC	O
+crew	4	NN	O
+for	3	IN	O
+in	2	IN	B-movie.name
+july	4	NN	I-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+in	2	IN	O
+movie	5	NN	O
+in	2	IN	B-movie.name
+july	4	RB	I-movie.name
+	
+who	3	WP	O
+'s	2	VBZ	O
+in	2	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+episode	7	NN	I-movie.name
+four	4	CD	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+in	2	IN	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+'s	2	VBZ	O
+cast	4	VVN	O
+	
+search	6	NN	O
+for	3	IN	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+cast	4	NN	O
+and	3	CC	O
+crew	4	NN	O
+of	2	IN	O
+appolo	6	NP	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+more	4	JJR	O
+about	5	IN	O
+the	3	DT	O
+cast	4	NN	O
+and	3	CC	O
+crew	4	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+who	3	WP	O
+starred	7	VVD	O
+in	2	IN	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+	
+cast	4	VVN	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+actor	5	NN	O
+from	4	IN	O
+lassie	6	NN	B-movie.name
+	
+list	4	NN	O
+actors	6	NNS	O
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+midnight	8	NN	B-movie.name
+cowboy	6	NN	I-movie.name
+	
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+actors	6	NNS	O
+	
+who	3	WP	O
+are	3	VBP	O
+cast	4	VVN	O
+and	3	CC	O
+crew	4	NN	O
+of	2	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+in	2	IN	O
+hitch	5	NN	B-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+in	2	IN	O
+the	3	DT	O
+cast	4	NN	O
+of	2	IN	O
+hitch	5	NN	B-movie.name
+	
+star	4	NN	O
+of	2	IN	O
+facts	5	NNS	B-movie.name
+of	2	IN	I-movie.name
+life	4	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+movie	5	NN	O
+credits	7	NNS	O
+	
+who	3	WP	O
+does	4	VVZ	O
+the	3	DT	O
+voices	6	NNS	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+	
+find	4	VV	O
+movie	5	NN	O
+actors	6	NNS	O
+	
+show	4	NN	O
+credits	7	NNS	O
+-	1	:	O
+forager	7	NN	B-movie.name
+	
+star	4	NN	O
+of	2	IN	O
+modern	6	JJ	B-movie.name
+family	6	NN	I-movie.name
+	
+look	4	VV	O
+up	2	RP	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+cast	4	NN	O
+crew	4	NN	O
+of	2	IN	O
+go	2	NN	B-movie.name
+	
+find	4	VV	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+cast	4	NN	O
+and	3	CC	O
+crew	4	NN	O
+of	2	IN	O
+go	2	NN	B-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+in	2	IN	O
+the	3	DT	O
+cast	4	NN	O
+of	2	IN	O
+go	2	NN	B-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+the	3	DT	O
+lead	4	JJ	O
+actor	5	NN	O
+in	2	IN	O
+pretty	6	JJ	B-movie.name
+women	5	NNS	I-movie.name
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+actors	6	NNS	O
+names	5	NNS	O
+and	3	CC	O
+parts	5	NNS	O
+in	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+searching	9	VVG	O
+for	3	IN	O
+names	5	NNS	O
+of	2	IN	O
+crew	4	NN	O
+members	7	NNS	O
+of	2	IN	O
+appollo	7	NP	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+budget	6	NN	O
+for	3	IN	O
+dark	4	JJ	B-movie.name
+knight	6	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+godfather	9	NN	I-movie.name
+	
+budget	6	NN	O
+for	3	IN	O
+twilight	8	NN	B-movie.name
+	
+please	6	UH	O
+look	4	VV	O
+up	2	RP	O
+the	3	DT	O
+budget	6	NN	O
+of	2	IN	O
+step	4	NN	B-movie.name
+up	2	RB	I-movie.name
+	
+budget	6	NN	O
+for	3	IN	O
+titanic	7	JJ	B-movie.name
+the	3	DT	O
+movie	5	NN	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+titanic	7	JJ	B-movie.name
+	
+budget	6	NN	O
+for	3	IN	O
+iron	4	NN	B-movie.name
+man	3	NN	I-movie.name
+2	1	CD	I-movie.name
+	
+please	6	VV	O
+tell	4	VV	O
+me	2	PP	O
+how	3	WRB	O
+much	4	JJ	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+avatar	6	NN	B-movie.name
+	
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+did	3	VVD	O
+they	4	PP	O
+spend	5	VVP	O
+to	2	TO	O
+make	4	VV	O
+avatar	6	NN	B-movie.name
+	
+avatar	6	NN	B-movie.name
+'s	2	POS	O
+budget	6	NN	O
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+avatar	6	NN	B-movie.name
+take	4	VV	O
+in	2	IN	O
+	
+please	6	UH	O
+show	4	VV	O
+me	2	PP	O
+what	4	WP	O
+the	3	DT	O
+budget	6	NN	O
+was	3	VBD	O
+for	3	IN	O
+avatar	6	NN	B-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	O
+avatar	6	NN	B-movie.name
+movie	5	NN	O
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+budget	6	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+total	5	JJ	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+batman	6	NN	B-movie.name
+begins	6	VVZ	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+gone	4	VVN	B-movie.name
+with	4	IN	I-movie.name
+the	3	DT	I-movie.name
+wind	4	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+spent	5	VVN	O
+on	2	IN	O
+my	2	PP$	B-movie.name
+big	3	JJ	I-movie.name
+fat	3	JJ	I-movie.name
+greek	5	NN	I-movie.name
+wedding	7	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+pretty	6	RB	B-movie.name
+woman	5	NN	I-movie.name
+'s	2	POS	O
+budget	6	NN	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+spaceballs	10	NNS	B-movie.name
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+has	3	VHZ	O
+kevin	5	NN	B-actor.name
+bacon	5	NN	I-actor.name
+been	4	VBN	O
+the	3	DT	O
+lead	4	JJ	O
+actor	5	NN	O
+in	2	IN	O
+	
+how	3	WRB	O
+many	4	JJ	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+movies	6	NNS	O
+are	3	VBP	O
+there	5	RB	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+are	3	VBP	O
+rated	5	VVN	O
+g	1	NN	B-rating.name
+	
+spain	5	NN	B-country.name
+has	3	VHZ	O
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+has	3	VHZ	O
+kristen	7	NN	B-actor.name
+stewart	7	NN	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+has	3	VHZ	O
+robert	6	JJ	B-director.name
+wise	4	NN	I-director.name
+directed	8	VVD	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+did	3	VVD	O
+alfred	6	NN	B-director.name
+hitchcock	9	NN	I-director.name
+direct	6	JJ	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+has	3	VHZ	O
+paramount	9	JJ	B-producer.name
+done	4	VVN	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+country	7	NN	O
+from	4	IN	O
+where	5	WRB	O
+the	3	DT	O
+movie	5	NN	O
+kati	4	NN	B-movie.name
+patang	6	NN	I-movie.name
+comes	5	VVZ	O
+	
+what	4	WP	O
+country	7	NN	O
+is	2	VBZ	O
+bullhead	8	NN	B-movie.name
+	
+what	4	WP	O
+country	7	NN	O
+made	4	VVD	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+	
+what	4	WP	O
+country	7	NN	O
+was	3	VBD	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+from	4	IN	O
+	
+what	4	WP	O
+country	7	NN	O
+was	3	VBD	O
+the	3	DT	O
+movie	5	NN	O
+made	4	VVD	O
+	
+what	4	WP	O
+country	7	NN	O
+did	3	VVD	O
+deep	4	JJ	B-movie.name
+blue	4	JJ	I-movie.name
+sea	3	NN	I-movie.name
+come	4	VVN	O
+from	4	IN	O
+	
+origin	6	NN	O
+of	2	IN	O
+titanic	7	JJ	B-movie.name
+	
+origin	6	NN	O
+of	2	IN	O
+king	4	NN	B-movie.name
+lear	4	NN	I-movie.name
+	
+when	4	WRB	O
+will	4	MD	O
+top	3	JJ	B-movie.name
+gun	3	NN	I-movie.name
+be	2	VB	O
+released	8	VVN	O
+	
+release	7	NN	O
+year	4	NN	O
+and	3	CC	O
+date	4	NN	O
+for	3	IN	O
+casino	6	NN	B-movie.name
+	
+when	4	WRB	O
+did	3	VVD	O
+will	4	MD	B-actor.name
+ferrell	7	RB	I-actor.name
+begin	5	VV	O
+acting	6	VVG	O
+	
+show	4	VV	O
+me	2	PP	O
+when	4	WRB	O
+24	2	CD	B-movie.name
+will	4	MD	O
+be	2	VB	O
+released	8	VVN	O
+	
+can	3	MD	O
+i	1	NP	O
+have	4	VHP	O
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+movie	5	NN	O
+	
+movie	5	NN	O
+'s	2	POS	O
+release	7	NN	O
+date	4	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+when	4	WRB	O
+the	3	DT	O
+movie	5	NN	O
+was	3	VBD	O
+made	4	VVN	O
+	
+when	4	WRB	O
+the	3	DT	O
+movie	5	NN	O
+titanic	7	JJ	B-movie.name
+was	3	VBD	O
+released	8	VVN	O
+	
+what	4	WP	O
+year	4	NN	O
+did	3	VVD	O
+the	3	DT	O
+italian	7	JJ	B-country.name
+movie	5	NN	O
+roman	5	NN	B-movie.name
+holiday	7	NN	I-movie.name
+come	4	VVN	O
+out	3	RP	O
+	
+can	3	MD	O
+you	3	PP	O
+please	6	VV	O
+search	6	NN	O
+for	3	IN	O
+release	7	NN	O
+date	4	NN	O
+for	3	IN	O
+karate	6	NN	B-movie.name
+kid	3	NN	I-movie.name
+	
+karate	6	NN	B-movie.name
+kid	3	NN	I-movie.name
+release	7	NN	O
+date	4	NN	O
+please	6	RB	O
+	
+when	4	WRB	O
+was	3	VBD	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+spaceballs	10	NNS	B-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+batman	6	NN	B-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+pretty	6	RB	B-movie.name
+woman	5	NN	I-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+men	3	NNS	B-movie.name
+in	2	IN	I-movie.name
+black	5	JJ	I-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+did	3	VVD	O
+kristen	7	NP	B-actor.name
+stewart	7	NP	I-actor.name
+start	5	NN	O
+acting	6	NN	O
+	
+when	4	WRB	O
+is	2	VBZ	O
+possessed	9	VVN	B-movie.name
+going	5	VVG	O
+to	2	TO	O
+be	2	VB	O
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+resident	8	JJ	B-movie.name
+evil	4	NN	I-movie.name
+released	8	VVN	O
+	
+release	7	NN	O
+date	4	NN	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+when	4	WRB	O
+was	3	VBD	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+released	8	VVN	O
+	
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+hum	3	NN	B-movie.name
+tum	3	NN	I-movie.name
+	
+when	4	WRB	O
+was	3	VBD	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+released	8	VVD	O
+	
+when	4	WRB	O
+was	3	VBD	O
+avatar	6	NN	B-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+did	3	VVD	O
+avatar	6	NN	B-movie.name
+released	8	VVD	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+when	4	WRB	O
+was	3	VBD	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+released	8	VVD	O
+	
+when	4	WRB	O
+was	3	VBD	O
+date	4	NN	B-movie.name
+night	5	NN	I-movie.name
+released	8	VVD	O
+	
+when	4	WRB	O
+did	3	VVD	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+come	4	VVN	O
+out	3	RP	O
+	
+when	4	WRB	O
+did	3	VVD	O
+avergers	8	NNS	B-movie.name
+come	4	VV	O
+out	3	RP	O
+	
+what	4	WP	O
+date	4	NN	O
+did	3	VVD	O
+the	3	DT	B-movie.name
+amazing	7	JJ	I-movie.name
+spiderman	9	NN	I-movie.name
+show	4	NN	O
+for	3	IN	O
+the	3	DT	O
+1st	3	JJ	O
+time	4	NN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+vulgaria	8	NN	B-movie.name
+	
+when	4	WRB	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+godfather	9	NN	I-movie.name
+was	3	VBD	O
+released	8	VVN	O
+	
+when	4	WRB	O
+does	4	VVZ	O
+looper	6	NN	B-movie.name
+come	4	VV	O
+out	3	RP	O
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+barfi	5	NN	B-movie.name
+	
+what	4	WP	O
+date	4	NN	O
+did	3	VVD	O
+the	3	DT	O
+movie	5	NN	O
+heroine	7	NN	B-movie.name
+come	4	VVN	O
+out	3	RP	O
+	
+when	4	WRB	O
+did	3	VVD	O
+the	3	DT	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+hit	3	NN	O
+theaters	8	NNS	O
+	
+what	4	WP	O
+day	3	NN	O
+is	2	VBZ	O
+fun	3	NN	B-movie.name
+size	4	NN	I-movie.name
+coming	6	VVG	O
+out	3	RP	O
+	
+what	4	WP	O
+day	3	NN	O
+will	4	NN	O
+django	6	NN	B-movie.name
+unchained	9	VVD	I-movie.name
+come	4	VV	O
+out	3	RP	O
+	
+when	4	WRB	O
+will	4	MD	O
+i	1	NP	O
+be	2	VB	O
+able	4	JJ	O
+to	2	TO	O
+view	4	VV	O
+iron	4	NN	B-movie.name
+man	3	NN	I-movie.name
+3	1	CD	I-movie.name
+	
+on	2	IN	O
+what	4	WP	O
+date	4	NN	O
+will	4	MD	O
+iron	4	VV	B-movie.name
+man	3	NN	I-movie.name
+3	1	LS	I-movie.name
+be	2	VB	O
+released	8	VVN	O
+	
+who	3	WP	O
+directed	8	VVD	O
+gone	4	VVN	B-movie.name
+with	4	IN	I-movie.name
+the	3	DT	I-movie.name
+wind	4	NN	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+director	8	NN	O
+for	3	IN	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+	
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+directed	8	VVD	O
+of	2	IN	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+sleepless	9	JJ	B-movie.name
+in	2	IN	I-movie.name
+seattle	7	NN	I-movie.name
+	
+find	4	VV	O
+who	3	WP	O
+the	3	DT	O
+director	8	NN	O
+was	3	VBD	O
+in	2	IN	O
+men	3	NNS	B-movie.name
+in	2	IN	I-movie.name
+black	5	JJ	I-movie.name
+3	1	CD	I-movie.name
+	
+locate	6	VV	O
+the	3	DT	O
+director	8	NN	O
+who	3	WP	O
+created	7	VVD	O
+the	3	DT	O
+movie	5	NN	O
+men	3	NNS	B-movie.name
+in	2	IN	I-movie.name
+black	5	JJ	I-movie.name
+3	1	CD	I-movie.name
+	
+director	8	NN	O
+of	2	IN	O
+titanic	7	JJ	B-movie.name
+	
+titanic	7	JJ	B-movie.name
+director	8	NN	O
+	
+avengers	8	NNS	B-movie.name
+movie	5	NN	O
+director	8	NN	O
+	
+dirctor	7	NN	O
+of	2	IN	O
+movie	5	NN	O
+avengers	8	NNS	B-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+director	8	NN	O
+for	3	IN	O
+nacho	5	NN	B-movie.name
+libre	5	NN	I-movie.name
+	
+director	8	NN	O
+for	3	IN	O
+big	3	JJ	B-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+welcome	7	NN	B-movie.name
+to	2	TO	I-movie.name
+the	3	DT	I-movie.name
+dollhouse	9	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+toy	3	NN	B-movie.name
+story	5	NN	I-movie.name
+	
+list	4	NN	O
+director	8	NN	O
+gilda	5	NN	B-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+field	5	NN	B-movie.name
+of	2	IN	I-movie.name
+dreams	6	NNS	I-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+the	3	DT	O
+second	6	JJ	O
+director	8	NN	O
+on	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+find	4	VV	O
+director	8	NN	O
+of	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+directed	8	VVN	O
+by	2	IN	O
+who	3	WP	O
+	
+director	8	NN	O
+of	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+hitch	5	NN	B-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+who	3	WP	O
+is	2	VBZ	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+batman	6	NN	B-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+director	8	NN	O
+of	2	IN	O
+the	3	DT	B-movie.name
+words	5	NNS	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+million	7	CD	B-movie.name
+dollar	6	NN	I-movie.name
+baby	4	NN	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+guy	3	NN	O
+that	4	WDT	O
+directed	8	VVD	O
+moneyball	9	NN	B-movie.name
+	
+who	3	WP	O
+did	3	VVD	O
+twilight	8	NN	B-movie.name
+	
+twilight	8	NN	B-movie.name
+director	8	NN	O
+	
+who	3	WP	O
+directed	8	VVD	O
+twilight	8	NN	B-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+twilight	8	NN	B-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+hum	3	NN	B-movie.name
+tum	3	NN	I-movie.name
+	
+look	4	VV	O
+for	3	IN	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+step	4	NN	B-movie.name
+up	2	RB	I-movie.name
+	
+please	6	UH	O
+find	4	VV	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+look	4	VV	O
+up	2	RP	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+baby	4	NN	B-movie.name
+mama	4	NN	I-movie.name
+	
+godfather	9	NN	B-movie.name
+director	8	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+who	3	WP	O
+directed	8	VVD	O
+the	3	DT	B-movie.name
+sound	5	NN	I-movie.name
+of	2	IN	I-movie.name
+music	5	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+the	3	DT	B-movie.name
+sound	5	NN	I-movie.name
+of	2	IN	I-movie.name
+music	5	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+the	3	DT	B-movie.name
+sound	5	NN	I-movie.name
+of	2	IN	I-movie.name
+music	5	NN	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+return	6	NN	B-movie.name
+	
+show	4	NN	O
+movie	5	NN	O
+avengers	8	NNS	B-movie.name
+director	8	NN	O
+name	4	NN	O
+	
+name	4	VV	O
+the	3	DT	O
+director	8	NN	O
+in	2	IN	O
+sleepless	9	JJ	B-movie.name
+in	2	IN	I-movie.name
+seattle	7	NN	I-movie.name
+	
+what	4	WP	O
+'s	2	VBZ	O
+the	3	DT	O
+genre	5	NN	O
+for	3	IN	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+black	5	JJ	B-movie.name
+swan	4	NN	B-movie.name
+'s	2	POS	O
+genre	5	NN	O
+	
+what	4	WP	O
+genre	5	NN	O
+is	2	VBZ	O
+parenthood	10	NN	B-movie.name
+	
+what	4	WP	O
+kind	4	NN	O
+of	2	IN	O
+movie	5	NN	O
+is	2	VBZ	O
+parenthood	10	NN	B-movie.name
+	
+genre	5	NN	O
+for	3	IN	O
+pride	5	NN	B-movie.name
+and	3	CC	I-movie.name
+prejudice	9	NN	I-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+genre	5	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+lawless	7	JJ	B-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+what	4	WP	O
+genre	5	NN	O
+does	4	VVZ	O
+movie	5	NN	O
+lawless	7	JJ	B-movie.name
+belongs	7	VVZ	O
+to	2	TO	O
+	
+genre	5	NN	O
+for	3	IN	O
+snow	4	NN	B-movie.name
+white	5	NN	I-movie.name
+and	3	CC	I-movie.name
+the	3	DT	I-movie.name
+huntsman	8	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+type	4	NN	O
+	
+what	4	WP	O
+'s	2	VBZ	O
+the	3	DT	O
+genre	5	NN	O
+of	2	IN	O
+rushmore	8	NN	B-movie.name
+	
+get	3	VV	O
+the	3	DT	O
+genre	5	NN	O
+of	2	IN	O
+welcome	7	NN	B-movie.name
+to	2	TO	I-movie.name
+the	3	DT	I-movie.name
+dollhouse	9	NN	I-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+find	4	VV	O
+the	3	DT	O
+genre	5	NN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+is	2	VBZ	O
+in	2	IN	O
+	
+what	4	WP	O
+genre	5	NN	O
+is	2	VBZ	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+in	2	IN	O
+	
+genre	5	NN	O
+for	3	IN	O
+batman	6	NN	B-movie.name
+	
+give	4	VV	O
+me	2	PP	O
+the	3	DT	O
+genre	5	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+genre	5	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+genre	5	NN	O
+for	3	IN	O
+bad	3	JJ	B-movie.name
+teacher	7	NN	I-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+pretty	6	JJ	B-movie.name
+girl	4	NN	I-movie.name
+the	3	DT	O
+movie	5	NN	O
+'s	2	POS	O
+genre	5	NN	O
+	
+what	4	WP	O
+genre	5	NN	O
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+pitch	5	NN	B-movie.name
+perfect	7	JJ	I-movie.name
+	
+in	2	IN	O
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+this	4	DT	O
+movie	5	NN	O
+	
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+this	4	DT	O
+movie	5	NN	O
+	
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+hero	4	NN	B-movie.name
+in	2	IN	O
+	
+language	8	NN	O
+of	2	IN	O
+king	4	NN	B-movie.name
+lear	4	NN	I-movie.name
+	
+language	8	NN	O
+of	2	IN	O
+casa	4	NN	B-movie.name
+blanca	6	NN	I-movie.name
+	
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+head	4	NN	B-movie.name
+on	2	IN	I-movie.name
+in	2	IN	O
+	
+language	8	NN	O
+of	2	IN	O
+spanglish	9	NN	B-movie.name
+	
+find	4	VV	O
+out	3	RP	O
+what	4	WP	O
+language	8	NN	O
+the	3	DT	B-movie.name
+father	6	NN	I-movie.name
+of	2	IN	I-movie.name
+my	2	PP$	I-movie.name
+children	8	NNS	I-movie.name
+is	2	VBZ	O
+in	2	IN	O
+	
+i	1	NNS	O
+am	2	VBP	O
+intersted	9	VVN	O
+in	2	IN	O
+viewing	7	VVG	O
+belle	5	NN	B-movie.name
+what	4	WP	O
+foreign	7	JJ	O
+language	8	NN	O
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+available	9	JJ	O
+in	2	IN	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+find	4	VV	O
+out	3	RP	O
+about	5	IN	O
+names	5	NNS	O
+of	2	IN	O
+some	4	DT	O
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+names	5	NNS	O
+of	2	IN	O
+some	4	DT	O
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+ron	3	NNS	B-producer.name
+howard	6	RB	I-producer.name
+name	4	VVP	O
+some	4	DT	O
+of	2	IN	O
+the	3	DT	O
+movies	6	NNS	O
+he	2	PP	O
+produce	7	VVP	O
+	
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+names	5	NNS	O
+of	2	IN	O
+the	3	DT	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+william	7	NP	B-producer.name
+packer	6	NN	I-producer.name
+	
+about	5	IN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+info	4	NN	O
+on	2	IN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+find	4	VV	O
+old	3	JJ	O
+movies	6	NNS	O
+	
+find	4	VV	O
+movie	5	NN	O
+ratings	7	NNS	O
+	
+find	4	VV	O
+newly	5	RB	O
+released	8	VVN	O
+movies	6	NNS	O
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+was	3	VBD	O
+bill	4	NN	B-actor.name
+paxton	6	NN	I-actor.name
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+was	3	VBD	O
+kevin	5	NN	B-actor.name
+bacon	5	NN	I-actor.name
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+find	4	VV	O
+movies	6	NNS	O
+about	5	IN	O
+dancing	7	NN	B-movie.subject
+	
+search	6	NN	O
+for	3	IN	O
+movies	6	NNS	O
+about	5	IN	O
+dancing	7	NN	B-movie.subject
+	
+show	4	NN	O
+will	4	MD	B-actor.name
+ferrell	7	VV	I-actor.name
+films	5	NNS	O
+	
+will	4	MD	B-actor.name
+ferrell	7	NP	I-actor.name
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+will	4	NN	B-actor.name
+ferrell	7	NN	I-actor.name
+appeared	8	VVD	O
+in	2	IN	O
+	
+find	4	VV	O
+russian	7	JJ	B-movie.language
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movie	5	NN	O
+pretty	6	JJ	B-movie.name
+women	5	NNS	B-movie.name
+so	2	IN	O
+i	1	NP	O
+can	3	MD	O
+see	3	VV	O
+who	3	WP	O
+starred	7	VVD	O
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+	
+feral	5	JJ	B-movie.name
+	
+the	3	DT	O
+movie	5	NN	O
+is	2	VBZ	O
+called	6	VVN	O
+big	3	JJ	B-movie.name
+	
+will	4	MD	B-actor.name
+smith	5	NN	I-actor.name
+acting	6	VVG	O
+carrer	6	NN	O
+	
+how	3	WRB	O
+many	4	JJ	O
+movies	6	NNS	O
+did	3	VVD	O
+peter	5	NN	B-director.name
+jackson	7	NNS	I-director.name
+do	2	VVP	O
+	
+movies	6	NNS	O
+and	3	CC	O
+gross	5	JJ	O
+payment	7	NN	O
+	
+search	6	NN	O
+for	3	IN	O
+tim	3	NN	B-director.name
+burton	6	NN	I-director.name
+movies	6	NNS	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+exhibit	7	VV	O
+all	3	DT	O
+details	7	NNS	O
+of	2	IN	O
+original	8	JJ	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+movie	5	NN	O
+	
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+movie	5	NN	O
+	
+find	4	VV	O
+the	3	DT	O
+movie	5	NN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+i	1	NNS	O
+am	2	VBP	O
+looking	7	VVG	O
+for	3	IN	O
+information	11	NN	O
+on	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+details	7	NNS	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+what	4	WP	O
+did	3	VVD	O
+andrew	6	NN	B-director.name
+stanton	7	NN	I-director.name
+direct	6	JJ	O
+	
+show	4	VV	O
+me	2	PP	O
+some	4	DT	O
+other	5	JJ	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+andrew	6	JJ	B-director.name
+stanton	7	NN	I-director.name
+	
+display	7	NN	O
+albert	6	NN	B-actor.name
+brooks	6	VVZ	I-actor.name
+movie	5	NN	O
+	
+show	4	VV	O
+a	1	DT	O
+movie	5	NN	O
+with	4	IN	O
+albert	6	NN	B-actor.name
+brooks	6	NNS	I-actor.name
+in	2	IN	O
+the	3	DT	O
+cast	4	NN	O
+	
+what	4	WP	O
+other	5	JJ	O
+films	5	NNS	O
+has	3	VHZ	O
+sergio	6	NN	B-director.name
+leone	5	NN	I-director.name
+directed	8	VVD	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+george	6	NN	B-producer.name
+harrison	8	NN	I-producer.name
+produced	8	VVD	O
+	
+what	4	WP	O
+has	3	VHZ	O
+charlie	7	NN	B-actor.name
+sheen	5	NN	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+	
+please	6	UH	O
+find	4	VV	O
+the	3	DT	O
+movies	6	NNS	O
+in	2	IN	O
+which	5	WDT	O
+clive	5	JJ	B-actor.name
+owen	4	NN	I-actor.name
+has	3	VHZ	O
+appeared	8	VVN	O
+	
+in	2	IN	O
+which	5	WDT	O
+movies	6	NNS	O
+has	3	VHZ	O
+clive	5	JJ	B-actor.name
+owen	4	NNS	I-actor.name
+appear	6	VVP	O
+	
+spike	5	NN	B-director.name
+lee	3	NN	I-director.name
+directed	8	VVD	O
+what	4	WP	O
+movie	5	NN	O
+	
+search	6	NN	O
+for	3	IN	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+spike	5	NN	B-director.name
+lee	3	NN	I-director.name
+	
+movie	5	NN	O
+release	7	NN	O
+dates	5	NNS	O
+	
+director	8	NN	O
+information	11	NN	O
+for	3	IN	O
+movies	6	NNS	O
+	
+movies	6	NNS	O
+by	2	IN	O
+director	8	NN	O
+	
+please	6	UH	O
+list	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+not	3	RB	O
+rated	5	VVN	O
+pg	2	NN	B-rating.name
+	
+find	4	VV	O
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+english	7	JJ	B-movie.language
+speaking	8	NN	O
+movies	6	NNS	O
+	
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+made	4	VVN	O
+in	2	IN	O
+america	7	NN	B-country.name
+	
+are	3	VBP	O
+there	5	RB	O
+any	3	DT	O
+movies	6	NNS	O
+produced	8	VVN	O
+in	2	IN	O
+the	3	DT	B-country.name
+united	6	VVN	B-country.name
+states	6	NNS	I-country.name
+	
+show	4	VV	O
+english	7	JJ	B-movie.language
+movies	6	NNS	O
+	
+search	6	NN	O
+english	7	NN	B-movie.language
+movies	6	NNS	O
+	
+comedy	6	NN	B-movie.genre
+	
+find	4	VV	O
+a	1	DT	O
+comedy	6	NN	B-movie.genre
+	
+watch	5	VV	O
+comedy	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+get	3	VV	O
+horror	6	NN	B-movie.genre
+films	5	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+horror	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+listing	7	NN	O
+of	2	IN	O
+horror	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+show	4	NN	O
+actor	5	NN	O
+bruce	5	NN	B-actor.name
+willis	6	NN	I-actor.name
+movies	6	NNS	O
+	
+which	5	WDT	O
+movies	6	NNS	O
+did	3	VVD	O
+bruce	5	NN	B-actor.name
+willis	6	NNS	I-actor.name
+star	4	JJ	O
+in	2	IN	O
+	
+list	4	NN	O
+movies	6	NNS	O
+with	4	IN	O
+bruce	5	NN	B-actor.name
+willis	6	NNS	I-actor.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+made	4	VVN	O
+in	2	IN	O
+canada	6	NP	B-country.name
+	
+can	3	MD	O
+i	1	NNS	O
+watch	5	VV	O
+a	1	DT	O
+canadian	8	JJ	B-country.name
+film	4	NN	O
+	
+see	3	VV	O
+canadian	8	JJ	B-country.name
+movies	6	NNS	O
+	
+search	6	NN	O
+for	3	IN	O
+information	11	NN	O
+about	5	IN	O
+canadian	8	JJ	B-country.name
+movies	6	NNS	O
+	
+I	1	PP	O
+'d	2	MD	O
+like	4	VV	O
+to	2	TO	O
+see	3	VV	O
+some	4	DT	O
+italian	7	JJ	B-country.name
+films	5	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+something	9	NN	O
+italian	7	NN	B-country.name
+-	1	:	O
+made	4	VVN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+movie	5	NN	O
+from	4	IN	O
+spain	5	NN	B-country.name
+	
+find	4	VV	O
+movies	6	NNS	O
+from	4	IN	O
+spain	5	NN	B-country.name
+	
+spain	5	NN	B-country.name
+country	7	NN	O
+movies	6	NNS	O
+	
+display	7	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+spanish	7	JJ	B-country.name
+films	5	NNS	O
+	
+spanish	7	JJ	B-country.name
+movie	5	NN	O
+listing	7	NN	O
+	
+spanish	7	JJ	B-country.name
+movies	6	NNS	O
+	
+find	4	VV	O
+actors	6	NNS	O
+in	2	IN	O
+movies	6	NNS	O
+	
+search	6	NN	O
+by	2	IN	O
+actors	6	NNS	O
+	
+find	4	VV	O
+some	4	DT	O
+romantic	8	JJ	B-movie.genre
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+movie	5	NN	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+gwyneth	7	NP	B-actor.name
+paltrow	7	NP	I-actor.name
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+with	4	IN	O
+quentin	7	NN	B-director.name
+tarantino	9	NN	I-director.name
+as	2	IN	O
+director	8	NN	O
+	
+england	7	NN	B-country.name
+movies	6	NNS	O
+	
+england	7	NN	B-country.name
+movies	6	NNS	O
+please	6	VVP	O
+	
+find	4	VV	O
+david	5	JJ	B-actor.name
+tennant	7	NN	I-actor.name
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+what	4	WP	O
+richard	7	NN	B-director.name
+lester	6	NN	I-director.name
+directed	8	VVD	O
+	
+get	3	VV	O
+films	5	NNS	O
+in	2	IN	O
+hindi	5	NNS	B-movie.language
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+from	4	IN	O
+india	5	NN	B-country.name
+	
+what	4	WP	O
+is	2	VBZ	O
+a	1	DT	O
+british	7	JJ	B-country.name
+horror	6	NN	B-movie.genre
+movie	5	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+watch	5	VV	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rated	5	VVN	O
+comedy	6	NN	B-movie.genre
+	
+list	4	NN	O
+of	2	IN	O
+french	6	JJ	B-movie.language
+language	8	NN	I-movie.language
+comedies	8	NNS	B-movie.genre
+	
+look	4	NN	O
+for	3	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+movie	5	NN	O
+with	4	IN	O
+jennifer	8	NN	B-actor.name
+grey	4	NN	I-actor.name
+	
+tell	4	VV	O
+me	2	PP	O
+in	2	IN	O
+detail	6	NN	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+tell	4	VV	O
+about	5	IN	O
+movie	5	NN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+can	3	MD	O
+i	1	NNS	O
+see	3	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+bette	5	NN	B-actor.name
+midler	6	NN	I-actor.name
+movies	6	NNS	O
+	
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+starring	8	VVG	O
+bette	5	NN	B-actor.name
+midler	6	NN	I-actor.name
+	
+show	4	VV	O
+me	2	PP	O
+all	3	RB	O
+of	2	IN	O
+anne	4	NN	B-actor.name
+hathaway	8	NN	I-actor.name
+'s	2	POS	O
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+sandra	6	NN	B-producer.name
+bullock	7	NN	I-producer.name
+produced	8	VVD	O
+	
+find	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+from	4	IN	O
+portugal	8	NN	B-country.name
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+robert	6	VVN	B-actor.name
+redford	7	NNS	I-actor.name
+been	4	VBN	O
+in	2	IN	O
+	
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+info	4	NN	O
+	
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+give	4	VV	O
+a	1	DT	O
+short	5	JJ	O
+bio	3	NN	O
+for	3	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+about	5	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+movies	6	NNS	O
+from	4	IN	O
+japan	5	NN	B-country.name
+	
+show	4	NN	O
+movies	6	NNS	O
+from	4	IN	O
+japan	5	NN	B-country.name
+	
+list	4	NN	O
+japanese	8	NN	B-movie.language
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+some	4	DT	O
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+japanese	8	JJ	B-movie.language
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+japanese	8	JJ	B-movie.language
+language	8	NN	I-movie.language
+movies	6	NNS	O
+	
+which	5	WDT	O
+films	5	NNS	O
+are	3	VBP	O
+spoken	6	VVN	O
+in	2	IN	O
+japanese	8	NN	B-movie.language
+	
+miramax	7	NN	B-producer.name
+films	5	NNS	I-producer.name
+only	4	RB	O
+	
+show	4	NN	O
+movies	6	NNS	O
+by	2	IN	O
+miramax	7	NN	B-producer.name
+	
+search	6	NN	O
+sandra	6	NN	B-actor.name
+bullock	7	NN	I-actor.name
+movies	6	NNS	O
+	
+watch	5	NN	O
+sandra	6	NN	B-actor.name
+bullock	7	NN	I-actor.name
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+about	5	IN	O
+vampires	8	NNS	B-movie.subject
+	
+find	4	VV	O
+movies	6	NNS	O
+having	6	VHG	O
+vampires	8	NNS	B-movie.subject
+	
+will	4	MD	B-actor.name
+smith	5	NN	I-actor.name
+movies	6	NNS	O
+	
+cars	4	NNS	B-movie.name
+movie	5	NN	O
+	
+what	4	WP	O
+movies	6	NNS	O
+did	3	VVD	O
+darla	5	NN	B-producer.name
+anderson	8	NN	I-producer.name
+produce	7	NN	O
+	
+what	4	WP	O
+films	5	NNS	O
+are	3	VBP	O
+made	4	VVN	O
+by	2	IN	O
+paramount	9	NN	B-producer.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+by	2	IN	O
+paramount	9	NN	B-producer.name
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+paramount	9	JJ	B-producer.name
+released	8	VVN	O
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+from	4	IN	O
+turkey	6	NN	B-country.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+bruce	5	NN	B-producer.name
+lee	3	NN	I-producer.name
+	
+is	2	VBZ	O
+parenthood	10	NN	B-movie.name
+a	1	DT	O
+drama	5	NN	B-movie.genre
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+an	2	DT	O
+kevin	5	NN	B-actor.name
+james	5	VVZ	I-actor.name
+film	4	NN	O
+tonight	7	NN	O
+	
+find	4	VV	O
+films	5	NNS	O
+from	4	IN	O
+china	5	NN	B-country.name
+	
+get	3	VV	O
+films	5	NNS	O
+from	4	IN	O
+china	5	NN	B-country.name
+	
+i	1	NP	O
+'d	2	MD	O
+like	4	VV	O
+to	2	TO	O
+watch	5	VV	O
+a	1	DT	O
+movie	5	NN	O
+made	4	VVN	O
+in	2	IN	O
+china	5	NN	B-country.name
+	
+list	4	VV	O
+some	4	DT	O
+movies	6	NNS	O
+from	4	IN	O
+china	5	NN	B-country.name
+	
+chinese	7	JJ	B-movie.language
+films	5	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+other	5	JJ	O
+chinese	7	JJ	B-movie.language
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+chinese	7	JJ	B-movie.language
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+have	4	VHP	O
+a	1	DT	O
+pg-13	5	JJ	B-rating.name
+rating	6	NN	O
+	
+please	6	VV	O
+list	4	NN	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+rated	5	VVN	O
+pg-13	5	NN	B-rating.name
+	
+i	1	NNS	O
+need	4	VVP	O
+a	1	DT	O
+g	1	NN	B-rating.name
+rating	6	NN	O
+so	2	IN	O
+i	1	NP	O
+can	3	MD	O
+take	4	VV	O
+the	3	DT	O
+kids	4	NNS	O
+	
+find	4	VV	O
+a	1	DT	O
+g	1	NN	B-rating.name
+rated	5	VVN	O
+movie	5	NN	O
+	
+find	4	VV	O
+g	1	NN	B-rating.name
+movies	6	NNS	O
+	
+find	4	VV	O
+g	1	NN	B-rating.name
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+rated	5	VVN	O
+g	1	NN	B-rating.name
+movies	6	NNS	O
+	
+look	4	VV	O
+up	2	RP	O
+g	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+i	1	NNS	O
+am	2	VBP	O
+searching	9	VVG	O
+for	3	IN	O
+any	3	DT	O
+g	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+for	3	IN	O
+my	2	PP$	O
+children	8	NNS	O
+to	2	TO	O
+view	4	VV	O
+	
+rated	5	VVN	O
+g	1	NN	B-rating.name
+movies	6	NNS	O
+for	3	IN	O
+family	6	NN	O
+watching	8	NN	O
+	
+find	4	VV	O
+g	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+are	3	VBP	O
+there	5	RB	O
+any	3	DT	O
+movies	6	NNS	O
+rated	5	VVD	O
+g	1	NN	B-rating.name
+playing	7	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+rated	5	VVN	O
+g	1	NN	B-rating.name
+	
+find	4	VV	O
+movies	6	NNS	O
+rated	5	VVN	O
+g	1	NN	B-rating.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+with	4	IN	O
+g	1	NN	B-rating.name
+rating	6	NN	O
+	
+did	3	VVD	O
+robert	6	JJ	B-director.name
+wise	4	NN	I-director.name
+direct	6	VV	O
+any	3	DT	O
+other	5	JJ	O
+musicals	8	NNS	O
+	
+bruce	5	NN	B-producer.name
+lee	3	NN	I-producer.name
+produced	8	VVD	O
+movie	5	NN	O
+listing	7	NN	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+last	4	JJ	O
+movie	5	NN	O
+made	4	VVN	O
+by	2	IN	O
+robert	6	NN	B-director.name
+wise	4	NN	I-director.name
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+mgm	3	NN	B-producer.name
+	
+show	4	VV	O
+me	2	PP	O
+british	7	RB	B-country.name
+made	4	VVD	O
+movies	6	NNS	O
+	
+movies	6	NNS	O
+from	4	IN	O
+the	3	DT	B-country.name
+uk	2	NN	I-country.name
+	
+find	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+from	4	IN	O
+the	3	DT	B-country.name
+uk	2	NN	I-country.name
+	
+can	3	MD	O
+you	3	PP	O
+list	4	VV	O
+ron	3	JJ	B-producer.name
+howard	6	JJ	I-producer.name
+movie	5	NN	O
+production	10	NN	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+movies	6	NNS	O
+produce	7	VVP	O
+by	2	IN	O
+ron	3	NN	B-producer.name
+howard	6	NN	I-producer.name
+	
+did	3	VVD	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+direct	6	VV	O
+any	3	DT	O
+other	5	JJ	O
+movies	6	NNS	O
+besides	7	IN	O
+million	7	CD	B-movie.name
+dollar	6	NN	I-movie.name
+baby	4	NN	I-movie.name
+	
+find	4	VV	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+	
+what	4	WP	O
+movies	6	NNS	O
+have	4	VHP	O
+been	4	VBN	O
+directed	8	VVN	O
+by	2	IN	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+	
+list	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+that	4	WDT	O
+were	4	VBD	O
+directed	8	VVN	O
+by	2	IN	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+clint	5	JJ	B-director.name
+eastwood	8	NN	I-director.name
+directed	8	VVD	O
+	
+show	4	NN	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+	
+find	4	VV	O
+all	3	DT	O
+films	5	NNS	O
+by	2	IN	O
+stanley	7	NN	B-director.name
+kubrick	7	NN	I-director.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+select	6	VV	O
+the	3	DT	O
+option	6	NN	O
+to	2	TO	O
+search	6	VV	O
+for	3	IN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+stephen	7	NN	B-producer.name
+spielberg	9	NN	I-producer.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+search	6	VV	O
+for	3	IN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+stephen	7	NN	B-producer.name
+speilberg	9	NN	I-producer.name
+	
+show	4	VV	O
+me	2	PP	O
+japanese	8	JJ	B-movie.language
+horror	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+ron	3	NNS	B-director.name
+howard	6	RB	I-director.name
+directed	8	VVN	O
+	
+movies	6	NNS	O
+by	2	IN	O
+stephen	7	NN	B-producer.name
+spielberg	9	NN	I-director.name
+	
+movies	6	NNS	O
+by	2	IN	O
+stephen	7	NN	B-producer.name
+spielberg	9	NN	I-director.name
+	
+what	4	WP	O
+movies	6	NNS	O
+did	3	VVD	O
+stephen	7	NN	B-producer.name
+spielberg	9	NNS	I-director.name
+direct	6	JJ	O
+	
+list	4	NN	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+movies	6	NNS	O
+	
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+movie	5	NN	O
+	
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+movies	6	NNS	O
+please	6	VVP	O
+	
+directed	8	VVN	O
+by	2	IN	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+	
+find	4	VV	O
+the	3	DT	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+from	4	IN	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+watch	5	VV	O
+a	1	DT	O
+movie	5	NN	O
+directed	8	VVN	O
+by	2	IN	O
+eddie	5	NN	B-director.name
+murphy	6	NN	I-director.name
+	
+the	3	DT	B-movie.name
+camp	4	NN	I-movie.name
+	
+watch	5	NN	O
+sandra	6	NN	B-actor.name
+bullock	7	NN	I-actor.name
+the	3	DT	B-movie.name
+blind	5	JJ	I-movie.name
+side	4	NN	I-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+with	4	IN	O
+hugh	4	NN	B-actor.name
+jackman	7	NN	I-actor.name
+	
+list	4	NN	O
+movies	6	NNS	O
+with	4	IN	O
+kevin	5	NP	B-actor.name
+spacey	6	NP	I-actor.name
+	
+look	4	NN	O
+for	3	IN	O
+movies	6	NNS	O
+from	4	IN	O
+france	6	NN	B-country.name
+	
+can	3	MD	O
+you	3	PP	O
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+were	4	VBD	O
+made	4	VVN	O
+in	2	IN	O
+france	6	NN	B-country.name
+	
+find	4	VV	O
+me	2	PP	O
+any	3	DT	O
+movies	6	NNS	O
+that	4	WDT	O
+were	4	VBD	O
+made	4	VVN	O
+in	2	IN	O
+france	6	NN	B-country.name
+	
+french	6	NN	B-movie.language
+movies	6	NNS	O
+please	6	VVP	O
+	
+french	6	NN	B-movie.language
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+	
+movies	6	NNS	O
+by	2	IN	O
+producers	9	NNS	O
+	
+display	7	NN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+mosfilm	7	NN	B-producer.name
+	
+what	4	WP	O
+was	3	VBD	O
+kristen	7	NP	B-actor.name
+stewart	7	NP	I-actor.name
+'s	2	POS	O
+first	5	JJ	O
+movie	5	NN	O
+	
+get	3	VV	O
+me	2	PP	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+miranda	7	NN	B-director.name
+july	4	RB	I-director.name
+	
+tom	3	NN	B-actor.name
+hanks	5	NNS	I-actor.name
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+with	4	IN	O
+tom	3	NN	B-actor.name
+hanks	5	NNS	I-actor.name
+	
+i	1	NNS	O
+am	2	VBP	O
+trying	6	VVG	O
+to	2	TO	O
+find	4	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+with	4	IN	O
+tom	3	NN	B-actor.name
+hanks	5	NNS	I-actor.name
+	
+provide	7	VV	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+oliver	6	JJR	B-director.name
+stone	5	NN	I-director.name
+please	6	VV	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+look	4	VV	O
+for	3	IN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+albert	6	NN	B-producer.name
+ruddy	5	JJ	I-producer.name
+	
+what	4	WP	O
+are	3	VBP	O
+all	3	RB	O
+of	2	IN	O
+the	3	DT	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+albert	6	NN	B-producer.name
+ruddy	5	JJ	I-producer.name
+	
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+yash	4	NN	B-producer.name
+chopra	6	NN	I-producer.name
+	
+what	4	WP	O
+did	3	VVD	O
+brad	4	NN	B-producer.name
+pitt	4	NN	I-producer.name
+porduce	7	NN	O
+	
+bring	5	VV	O
+up	2	RP	O
+all	3	DT	O
+brad	4	NN	B-producer.name
+pitt	4	NN	I-producer.name
+produced	8	VVD	O
+movies	6	NNS	O
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+that	4	IN/that	O
+penny	5	NN	B-director.name
+marshall	8	NN	I-director.name
+directed	8	VVD	O
+	
+i	1	NNS	O
+need	4	VVP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+all	3	PDT	O
+the	3	DT	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+james	5	NNS	B-director.name
+cameron	7	NN	I-director.name
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+all	3	PDT	O
+the	3	DT	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+james	5	NNS	B-director.name
+cameron	7	NN	I-director.name
+	
+james	5	NNS	B-producer.name
+cameron	7	NN	I-producer.name
+movies	6	NNS	O
+produced	8	VVD	O
+	
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+james	5	NNS	B-producer.name
+cameron	7	NN	I-producer.name
+	
+what	4	WP	O
+films	5	NNS	O
+have	4	VHP	O
+been	4	VBN	O
+produced	8	VVN	O
+by	2	IN	O
+warner	6	NN	B-producer.name
+bros.	5	NN	I-producer.name
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+warner	6	NN	B-producer.name
+bros.	5	NN	I-producer.name
+	
+what	4	WP	O
+movies	6	NNS	O
+have	4	VHP	O
+been	4	VBN	O
+produced	8	VVN	O
+by	2	IN	O
+warner	6	NN	B-producer.name
+bros.	5	NN	I-producer.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+by	2	IN	B-producer.name
+wb	2	NN	O
+	
+give	4	VV	O
+me	2	PP	O
+information	11	NN	O
+about	5	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+information	11	NN	O
+about	5	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+bing	4	NNS	O
+	
+search	6	NN	O
+finding	7	NN	B-movie.name
+nemo	4	NN	I-movie.name
+	
+show	4	NN	O
+information	11	NN	O
+page	4	NN	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+information	11	NN	O
+	
+more	4	JJR	O
+information	11	NN	O
+on	2	IN	O
+apallo	6	NP	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+research	8	NN	O
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+	
+has	3	VHZ	O
+kristen	7	NN	B-actor.name
+stewart	7	NN	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+movies	6	NNS	O
+other	5	JJ	O
+than	4	IN	O
+twilight	8	NN	B-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+kristen	7	NN	B-actor.name
+stewart	7	NN	I-actor.name
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+kristen	7	NN	B-actor.name
+stewarted	9	NN	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+	
+lionsgate	9	NN	B-producer.name
+movies	6	NNS	O
+	
+show	4	NN	O
+lionsgate	9	NN	B-producer.name
+movies	6	NNS	O
+	
+show	4	NN	O
+movies	6	NNS	O
+made	4	VVN	O
+by	2	IN	O
+production	10	NN	O
+lionsgate	9	NNS	B-producer.name
+	
+give	4	VV	O
+me	2	PP	O
+something	9	NN	O
+by	2	IN	O
+charles	7	NNS	B-director.name
+vidor	5	NN	I-director.name
+	
+show	4	NN	O
+charles	7	NNS	B-director.name
+vidor	5	NN	I-director.name
+movie	5	NN	O
+	
+what	4	WP	O
+film	4	NN	O
+did	3	VVD	O
+charles	7	NNS	B-director.name
+vidor	5	NN	I-director.name
+direct	6	JJ	O
+	
+which	5	WDT	O
+movies	6	NNS	O
+have	4	VHP	O
+been	4	VBN	O
+made	4	VVN	O
+outside	7	IN	O
+the	3	DT	B-country.name
+united	6	VVN	I-country.name
+states	6	NNS	I-country.name
+	
+find	4	VV	O
+me	2	PP	O
+nigeria	7	NN	B-country.name
+movies	6	NNS	O
+	
+display	7	NN	O
+7	1	CD	B-producer.name
+arts	4	NNS	I-producer.name
+movies	6	NNS	O
+	
+korean	6	JJ	B-movie.language
+movie	5	NN	O
+	
+what	4	WP	O
+other	5	JJ	O
+movies	6	NNS	O
+did	3	VVD	O
+roberto	7	NN	B-actor.name
+benigni	7	NNS	I-actor.name
+star	4	JJ	O
+in	2	IN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+starring	8	VVG	O
+denzel	6	NN	B-actor.name
+washington	10	NNS	I-actor.name
+please	6	VVP	O
+	
+list	4	VV	O
+the	3	DT	O
+kareena	7	NN	B-actor.name
+'s	2	POS	O
+movie	5	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+watch	5	VV	O
+a	1	DT	O
+drama	5	NN	B-movie.genre
+made	4	VVN	O
+in	2	IN	O
+turkey	6	NN	B-country.name
+	
+jennifer	8	NP	B-actor.name
+lopez	5	NP	I-actor.name
+played	6	VVD	O
+in	2	IN	O
+what	4	WP	O
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+all	3	RB	O
+of	2	IN	O
+the	3	DT	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+woody	5	JJ	B-director.name
+allen	5	NN	I-director.name
+	
+show	4	NN	O
+robert	6	NN	B-director.name
+wise	4	JJ	I-director.name
+movies	6	NNS	O
+	
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+robert	6	JJ	B-director.name
+wise	4	JJ	I-director.name
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+robert	6	JJ	B-director.name
+wise	4	NN	I-director.name
+directed	8	VVD	O
+	
+what	4	WP	O
+movies	6	NNS	O
+have	4	VHP	O
+robert	6	JJ	B-director.name
+wise	4	NN	I-director.name
+directed	8	VVD	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NNS	O
+find	4	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+chris	5	NN	B-producer.name
+nolan	5	NN	I-producer.name
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+brad	4	NN	B-actor.name
+pitt	4	NN	I-actor.name
+been	4	VBN	O
+in	2	IN	O
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+movies	6	NNS	O
+brad	4	NN	B-actor.name
+pitt	4	NN	I-actor.name
+had	3	VHD	O
+been	4	VBN	O
+in	2	IN	O
+	
+what	4	WP	O
+are	3	VBP	O
+some	4	DT	O
+movies	6	NNS	O
+with	4	IN	O
+brad	4	NN	B-actor.name
+pitt	4	NN	I-actor.name
+	
+find	4	VV	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rated	5	VVN	O
+movie	5	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+r	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+r	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+look	4	VV	O
+up	2	RB	O
+r	1	SYM	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+only	4	RB	O
+r	1	SYM	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+only	4	JJ	O
+movies	6	NNS	O
+with	4	IN	O
+a	1	DT	O
+rating	6	NN	O
+of	2	IN	O
+r	1	NN	B-rating.name
+	
+please	6	UH	O
+look	4	VV	O
+for	3	IN	O
+movies	6	NNS	O
+with	4	IN	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rating	6	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+	
+look	4	NN	O
+for	3	IN	O
+movies	6	NNS	O
+with	4	IN	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rating	6	NN	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+all	3	DT	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+watch	5	VV	O
+movies	6	NNS	O
+from	4	IN	O
+norway	6	NN	B-country.name
+	
+can	3	MD	O
+i	1	NP	O
+have	4	VHP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+spanish	7	JJ	B-movie.language
+speaking	8	NN	O
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+made	4	VVN	O
+in	2	IN	O
+mexico	6	NN	B-country.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movie	5	NN	O
+pot	3	NN	B-movie.name
+zombies	7	NNS	I-movie.name
+	
+what	4	WP	O
+movies	6	NNS	O
+have	4	VHP	O
+zombies	7	NNS	B-movie.subject
+in	2	IN	O
+them	4	PP	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+about	5	IN	O
+zombies	7	NNS	B-movie.subject
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+about	5	IN	O
+zombies	7	NNS	B-movie.subject
+	
+show	4	VV	O
+me	2	PP	O
+ones	4	NNS	O
+by	2	IN	O
+david	5	JJ	B-director.name
+fincher	7	NN	I-director.name
+	
+show	4	VV	O
+ridley	6	NP	B-director.name
+scott	5	NP	I-director.name
+'s	2	POS	O
+filmography	11	NN	O
+	
+find	4	VV	O
+ridley	6	NP	B-director.name
+scott	5	NP	I-director.name
+movies	6	NNS	O
+	
+can	3	MD	O
+you	3	PP	O
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+ridley	6	NP	B-director.name
+scott	5	NP	I-director.name
+	
+list	4	NN	O
+german	6	NN	B-movie.language
+movies	6	NNS	O
+	
+german	6	JJ	B-movie.language
+movies	6	NNS	O
+	
+find	4	VV	O
+action	6	NN	B-movie.genre
+films	5	NNS	O
+	
+find	4	VV	O
+some	4	DT	O
+action	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+list	4	NN	O
+dredd	5	NN	B-movie.name
+movie	5	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+george	6	VV	B-director.name
+lucas	5	NNS	I-director.name
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+george	6	NN	B-director.name
+lucas	5	NNS	I-director.name
+	
+produced	8	VVN	O
+by	2	IN	O
+	
+please	6	UH	O
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+morgan	6	NN	B-producer.name
+freeman	7	NN	I-producer.name
+	
+please	6	UH	O
+look	4	VV	O
+up	2	RP	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+morgan	6	NN	B-producer.name
+freeman	7	NN	I-producer.name
+	
+search	6	NN	O
+for	3	IN	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+morgan	6	NN	B-producer.name
+freeman	7	NN	I-producer.name
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+morgan	6	NN	B-producer.name
+freeman	7	NN	I-producer.name
+	
+look	4	VV	O
+up	2	RP	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+morgan	6	NN	B-producer.name
+freeman	7	NN	I-producer.name
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+meryl	5	NN	B-actor.name
+streep	6	NNS	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+this	4	DT	O
+movie	5	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+made	4	VVN	O
+in	2	IN	O
+russia	6	NN	B-country.name
+	
+look	4	VVP	O
+up	2	RB	O
+star	4	VV	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+movie	5	NN	O
+	
+display	7	VV	O
+all	3	DT	O
+details	7	NNS	O
+about	5	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+-	1	:	I-movie.name
+a	1	DT	I-movie.name
+new	3	JJ	I-movie.name
+hope	4	NN	I-movie.name
+movie	5	NN	O
+	
+get	3	VV	O
+all	3	DT	O
+details	7	NNS	O
+about	5	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+-	1	:	I-movie.name
+a	1	DT	I-movie.name
+new	3	JJ	I-movie.name
+hope	4	NN	I-movie.name
+movie	5	NN	O
+	
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+episode	7	NN	I-movie.name
+four	4	CD	I-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+main	4	JJ	O
+page	4	NN	O
+	
+search	6	NN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+	
+find	4	VV	O
+me	2	PP	O
+tons	4	NNS	O
+of	2	IN	O
+info	4	NN	O
+related	7	VVN	O
+to	2	TO	O
+star	4	VV	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+	
+get	3	VV	O
+details	7	NNS	O
+of	2	IN	O
+in	2	IN	B-movie.name
+july	4	JJ	I-movie.name
+movie	5	NN	O
+	
+find	4	VV	O
+details	7	NNS	O
+of	2	IN	O
+in	2	IN	B-movie.name
+july	4	JJ	I-movie.name
+movie	5	NN	O
+	
+show	4	NN	O
+details	7	NNS	O
+of	2	IN	O
+in	2	IN	B-movie.name
+july	4	JJ	I-movie.name
+movie	5	NN	O
+	
+tell	4	VV	O
+me	2	PP	O
+about	5	RB	O
+in	2	IN	B-movie.name
+july	4	JJ	I-movie.name
+movie	5	NN	O
+	
+look	4	VV	O
+up	2	RP	O
+the	3	DT	O
+movie	5	NN	O
+in	2	IN	B-movie.name
+july	4	RB	I-movie.name
+	
+display	7	NN	O
+information	11	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+title	5	NN	O
+in	2	IN	B-movie.name
+july	4	RB	I-movie.name
+	
+movie	5	NN	O
+in	2	IN	B-movie.name
+july	4	JJ	I-movie.name
+data	4	NNS	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NNS	O
+find	4	VV	O
+the	3	DT	O
+movie	5	NN	O
+aankhen	7	NN	B-movie.name
+in	2	IN	O
+hindi	5	NN	B-movie.language
+	
+display	7	NN	O
+julia	5	NN	B-actor.name
+roberts	7	NNS	I-actor.name
+films	5	NNS	O
+	
+list	4	VV	O
+the	3	DT	O
+movies	6	NNS	O
+that	4	WDT	O
+have	4	VHP	O
+the	3	DT	O
+actress	7	NN	O
+angelina	8	NN	B-actor.name
+jolie	5	NN	I-actor.name
+	
+dustin	6	NN	B-actor.name
+hoffman	7	NN	I-actor.name
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+did	3	VVD	O
+david	5	JJ	B-director.name
+ayer	4	NN	I-director.name
+direct	6	JJ	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+view	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+clint	5	NN	B-producer.name
+eastwood	8	NN	I-producer.name
+	
+list	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+about	5	IN	O
+horses	6	NNS	B-movie.subject
+	
+find	4	VV	O
+all	3	DT	O
+johnny	6	NN	B-actor.name
+depp	4	NN	I-actor.name
+movies	6	NNS	O
+	
+search	6	NN	O
+by	2	IN	O
+director	8	NN	O
+	
+search	6	NN	O
+by	2	IN	O
+director	8	NN	O
+	
+is	2	VBZ	O
+there	5	RB	O
+any	3	DT	O
+upcoming	8	JJ	O
+movies	6	NNS	O
+from	4	IN	O
+warner	6	NN	B-producer.name
+brothers	8	NNS	I-producer.name
+	
+bring	5	VV	O
+up	2	RP	O
+movies	6	NNS	O
+with	4	IN	O
+ice	3	NN	B-movie.subject
+skating	7	VVG	I-movie.subject
+in	2	IN	O
+it	2	PP	O
+	
+find	4	VV	O
+newly	5	RB	O
+released	8	VVN	O
+comedies	8	NNS	B-movie.genre
+from	4	IN	O
+england	7	NN	B-country.name
+	
+i	1	NP	O
+need	4	NN	O
+info	4	NN	O
+on	2	IN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+houses	6	NNS	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+about	5	RB	O
+	
+give	4	VV	O
+me	2	PP	O
+more	4	JJR	O
+facts	5	NNS	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+in	2	IN	O
+detail	6	NN	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+in	2	IN	O
+detail	6	NN	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+display	7	NN	O
+movie	5	NN	O
+information	11	NN	O
+for	3	IN	O
+the	3	DT	O
+film	4	NN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+films	5	NNS	O
+with	4	IN	O
+chinese	7	NN	B-movie.language
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+watch	5	VV	O
+a	1	DT	O
+movie	5	NN	O
+in	2	IN	O
+chinese	7	NN	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+produced	8	VVN	O
+and	3	CC	O
+directed	8	VVN	O
+by	2	IN	O
+tyler	5	NN	B-producer.name
+perry	5	NN	I-producer.name
+	
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+movies	6	NNS	O
+please	6	VVP	O
+	
+i	1	NNS	O
+want	4	VVP	O
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+movies	6	NNS	O
+please	6	VVP	O
+	
+which	5	WDT	O
+movies	6	NNS	O
+star	4	VVP	O
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+	
+which	5	WDT	O
+movies	6	NNS	O
+do	2	VVP	O
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+play	4	VVP	O
+in	2	IN	O
+	
+find	4	VV	O
+end	3	NN	B-movie.name
+of	2	IN	I-movie.name
+watch	5	NN	I-movie.name
+	
+search	6	NN	O
+by	2	IN	O
+genre	5	NN	O
+	
+looking	7	VVG	O
+for	3	IN	O
+movies	6	NNS	O
+of	2	IN	O
+yash	4	NN	B-director.name
+chopra	6	NN	I-director.name
+	
+find	4	VV	O
+me	2	PP	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+movie	5	NN	O
+	
+information	11	NN	O
+for	3	IN	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+info	4	NN	O
+on	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+please	6	RB	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+all	3	PDT	O
+the	3	DT	O
+details	7	NNS	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+	
+sort	4	VV	O
+all	3	DT	O
+pg	2	NN	B-rating.name
+movies	6	NNS	O
+	
+pg	2	NN	B-rating.name
+rated	5	VVD	O
+movies	6	NNS	O
+	
+access	6	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+pg	2	NN	B-rating.name
+movies	6	NNS	O
+please	6	VVP	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+pg	2	NN	B-rating.name
+movies	6	NNS	O
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+pg	2	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+to	2	TO	O
+watch	5	VV	O
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+pg	2	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+find	4	VV	O
+movies	6	NNS	O
+with	4	IN	O
+a	1	DT	O
+pg	2	NN	B-rating.name
+rating	6	NN	O
+	
+what	4	WP	O
+movies	6	NNS	O
+are	3	VBP	O
+pg	2	JJ	B-rating.name
+	
+movies	6	NNS	O
+by	2	IN	O
+alfred	6	NN	B-director.name
+hitchcock	9	NN	I-director.name
+	
+what	4	WP	O
+movies	6	NNS	O
+did	3	VVD	O
+alfred	6	NN	B-director.name
+hitchcock	9	NN	I-director.name
+make	4	VV	O
+	
+watch	5	VV	O
+hitchcook	9	NN	B-director.name
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+any	3	DT	O
+current	7	JJ	O
+movies	6	NNS	O
+starring	8	VVG	O
+tom	3	NN	B-actor.name
+hanks	5	NNS	I-actor.name
+	
+i	1	NNS	O
+want	4	VVP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+recent	6	JJ	O
+movies	6	NNS	O
+rated	5	VVN	O
+pg	2	NN	B-rating.name
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+recent	6	JJ	O
+movies	6	NNS	O
+rated	5	VVN	O
+pg	2	NN	B-rating.name
+	
+ray	3	NN	B-producer.name
+stark	5	RB	I-producer.name
+produced	8	VVD	O
+what	4	WP	O
+other	5	JJ	O
+movies	6	NNS	O
+	
+what	4	WP	O
+is	2	VBZ	O
+spielberg	9	NP	B-producer.name
+'s	2	POS	O
+latest	6	JJS	O
+movie	5	NN	O
+	
+please	6	UH	O
+find	4	VV	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+tom	3	NN	B-director.name
+hanks	5	NNS	I-director.name
+	
+are	3	VBP	O
+there	5	RB	O
+any	3	DT	O
+recent	6	JJ	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+polish	6	NN	B-movie.language
+speaking	8	NN	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+been	4	VBN	O
+in	2	IN	O
+recently	8	RB	O
+	
+search	6	NN	O
+for	3	IN	O
+new	3	JJ	O
+movies	6	NNS	O
+	
+search	6	NN	O
+for	3	IN	O
+in	2	IN	B-movie.name
+july	4	NN	I-movie.name
+	
+watch	5	VV	O
+in	2	IN	B-movie.name
+july	4	RB	I-movie.name
+online	6	JJ	O
+	
+search	6	NN	O
+for	3	IN	O
+information	11	NN	O
+about	5	IN	O
+lionsgate	9	NNS	B-producer.name
+	
+lionsgate	9	JJ	B-producer.name
+info	4	NN	O
+	
+find	4	VV	O
+information	11	NN	O
+about	5	IN	O
+paramount	9	JJ	B-producer.name
+studios	7	NNS	I-producer.name
+	
+who	3	WP	O
+is	2	VBZ	O
+ray	3	NN	B-person.name
+stark	5	JJ	I-person.name
+	
+find	4	VV	O
+information	11	NN	O
+on	2	IN	O
+charles	7	NNS	B-person.name
+vidor	5	NN	I-person.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+look	4	VV	O
+up	2	RP	O
+information	11	NN	O
+about	5	IN	O
+tom	3	NN	B-person.name
+cruise	6	NN	I-person.name
+	
+can	3	MD	O
+you	3	PP	O
+please	6	VV	O
+search	6	NN	O
+details	7	NNS	O
+about	5	RB	O
+will	4	MD	B-person.name
+ferrell	7	VV	I-person.name
+	
+will	4	MD	B-person.name
+ferrell	7	NP	I-person.name
+biography	9	NN	O
+	
+show	4	NN	O
+will	4	MD	B-person.name
+ferrell	7	VV	I-person.name
+biography	9	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+complete	8	JJ	O
+biography	9	NN	O
+of	2	IN	O
+will	4	NN	B-person.name
+ferrell	7	NN	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+information	11	NN	O
+on	2	IN	O
+will	4	NN	B-person.name
+ferrell	7	NN	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+will	4	MD	B-person.name
+ferrell	7	NN	I-person.name
+'s	2	POS	O
+bio	3	NN	O
+	
+get	3	VV	O
+info	4	NN	O
+on	2	IN	O
+kristen	7	NP	B-person.name
+stewart	7	NN	I-person.name
+	
+does	4	VVZ	O
+kristen	7	NP	B-person.name
+stewart	7	NP	I-person.name
+have	4	VHP	O
+a	1	DT	O
+personal	8	JJ	O
+page	4	NN	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NNS	O
+find	4	VV	O
+information	11	NN	O
+about	5	IN	O
+kristen	7	NP	B-person.name
+stewart	7	NN	I-person.name
+	
+jennifer	8	NN	B-person.name
+aniston	7	NN	I-person.name
+bio	3	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+spielberg	9	NP	B-person.name
+'s	2	POS	O
+main	4	JJ	O
+page	4	NN	O
+	
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+summary	7	NN	O
+	
+about	5	IN	O
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+	
+find	4	VV	O
+me	2	PP	O
+bio	3	NN	O
+details	7	NNS	O
+for	3	IN	O
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+	
+bio	3	NN	O
+for	3	IN	O
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+alfred	6	NN	B-person.name
+hitchcock	9	NN	I-person.name
+	
+i	1	NNS	O
+want	4	VVP	O
+more	4	JJR	O
+information	11	NN	O
+about	5	IN	O
+alfred	6	NP	B-person.name
+hitchock	8	NP	I-person.name
+'s	2	POS	O
+biography	9	NN	O
+	
+all	3	DT	O
+info	4	NN	O
+hitchcock	9	NN	B-person.name
+	
+find	4	VV	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+avatar	6	NN	B-movie.name
+	
+producer	8	NN	O
+hitch	5	NN	B-movie.name
+	
+who	3	WP	O
+produces	8	VVZ	O
+hitch	5	NN	B-movie.name
+	
+production	10	NN	O
+company	7	NN	O
+for	3	IN	O
+transformers	12	NNS	B-movie.name
+	
+what	4	WP	O
+company	7	NN	O
+made	4	VVD	O
+et	2	FW	B-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+production	10	NN	O
+company	7	NN	O
+for	3	IN	O
+et	2	FW	B-movie.name
+	
+who	3	WP	O
+produces	8	VVZ	O
+cars	4	NNS	B-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+who	3	WP	O
+produced	8	VVD	O
+cars	4	NNS	B-movie.name
+	
+production	10	NN	O
+company	7	NN	O
+for	3	IN	O
+devil	5	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+steel	5	NN	B-movie.name
+magnolias	9	NNS	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+avatar	6	NN	B-movie.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+avatar	6	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+avatar	6	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+avatar	6	NN	B-movie.name
+	
+avatar	6	NN	B-movie.name
+producer	8	NN	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+who	3	WP	O
+are	3	VBP	O
+the	3	DT	O
+producers	9	NNS	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+grease	6	NN	B-movie.name
+'s	2	POS	O
+producer	8	NN	O
+	
+who	3	WP	O
+produced	8	VVD	O
+grease	6	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+my	2	PP$	B-movie.name
+big	3	JJ	I-movie.name
+fat	3	JJ	I-movie.name
+greek	5	NN	I-movie.name
+wedding	7	NN	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+pretty	6	JJ	B-movie.name
+woman	5	NN	I-movie.name
+	
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+producer	8	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+godfather	9	NN	I-movie.name
+	
+the	3	DT	B-movie.name
+godfather	9	NN	I-movie.name
+was	3	VBD	O
+produced	8	VVN	O
+by	2	IN	O
+	
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+clue	4	NN	B-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+hotel	5	NN	B-movie.name
+rwanda	6	NN	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+marley	6	NN	B-movie.name
+and	3	CC	I-movie.name
+me	2	PP	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+despicable	10	JJ	B-movie.name
+me	2	PP	I-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+the	3	DT	O
+company	7	NN	O
+that	4	WDT	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+inception	9	NN	B-movie.name
+	
+what	4	WP	O
+company	7	NN	O
+developed	9	VVD	O
+the	3	DT	O
+movie	5	NN	O
+inception	9	NN	B-movie.name
+	
+find	4	VV	O
+producer	8	NN	O
+of	2	IN	O
+the	3	DT	B-movie.name
+great	5	JJ	I-movie.name
+debaters	8	NNS	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+inception	9	NN	B-movie.name
+	
+provide	7	VV	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+company	7	NN	O
+that	4	WDT	O
+produced	8	VVD	O
+sparkle	7	NN	B-movie.name
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+company	7	NN	O
+that	4	WDT	O
+produced	8	VVD	O
+sparkle	7	NN	B-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+look	4	NN	B-movie.name
+who	3	WP	I-movie.name
+'s	2	VBZ	I-movie.name
+talking	7	VVG	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+harlem	6	NN	B-movie.name
+nights	6	NNS	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+step	4	NN	B-movie.name
+up	2	RB	I-movie.name
+	
+please	6	UH	O
+find	4	VV	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+look	4	VV	O
+for	3	IN	O
+the	3	DT	O
+producer	8	NN	O
+of	2	IN	O
+freedom	7	NN	B-movie.name
+writers	7	NNS	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+movie	5	NN	O
+rating	6	NN	O
+	
+how	3	WRB	O
+much	4	JJ	O
+revenue	7	NN	O
+did	3	VVD	O
+pretty	6	RB	B-movie.name
+woman	5	NN	I-movie.name
+make	4	VV	O
+	
+earnings	8	NNS	O
+for	3	IN	O
+pretty	6	JJ	B-movie.name
+woman	5	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+revenue	7	NN	O
+of	2	IN	O
+pretty	6	JJ	B-movie.name
+woman	5	NN	I-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+pretty	6	RB	B-movie.name
+woman	5	NN	I-movie.name
+make	4	VV	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+gross	5	JJ	O
+revenue	7	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+make	4	VVP	O
+	
+revenue	7	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+the	3	DT	B-movie.name
+dark	4	JJ	I-movie.name
+night	5	NN	I-movie.name
+generate	8	VV	O
+in	2	IN	O
+revenues	8	NNS	O
+	
+find	4	VV	O
+revenue	7	NN	O
+totals	6	NNS	O
+for	3	IN	O
+jurassic	8	JJ	B-movie.name
+park	4	NN	I-movie.name
+	
+revenue	7	NN	O
+for	3	IN	O
+independence	12	NN	B-movie.name
+day	3	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+new	3	JJ	O
+will	4	NN	B-actor.name
+ferrell	7	NN	I-actor.name
+movie	5	NN	O
+about	5	RB	O
+	
+who	3	WP	O
+played	6	VVD	O
+the	3	DT	O
+voice	5	NN	O
+of	2	IN	O
+nemo	4	NN	B-character.name
+in	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+richie	6	NN	B-character.name
+cunningham	10	NN	I-character.name
+in	2	IN	O
+happy	5	JJ	B-movie.name
+days	4	NNS	I-movie.name
+	
+who	3	WP	O
+stars	5	VVZ	O
+in	2	IN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+cast	4	NN	O
+for	3	IN	O
+the	3	DT	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+cast	4	NN	O
+and	3	CC	O
+crew	4	NN	O
+of	2	IN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+ethel	5	NN	B-character.name
+actress	7	NN	O
+from	4	IN	O
+i	1	NP	B-movie.name
+love	4	NN	I-movie.name
+lucy	4	NN	I-movie.name
+	
+actress	7	NN	O
+who	3	WP	O
+played	6	VVD	O
+ethel	5	NN	B-character.name
+on	2	IN	O
+i	1	NP	B-movie.name
+love	4	NN	I-movie.name
+lucy	4	NN	I-movie.name
+	
+who	3	WP	O
+are	3	VBP	O
+the	3	DT	O
+cast	4	NN	O
+members	7	NNS	O
+in	2	IN	O
+lord	4	NN	B-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+rings	5	VVZ	I-movie.name
+the	3	DT	I-movie.name
+two	3	CD	I-movie.name
+towers	6	NNS	I-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+hawkeye	7	NN	B-character.name
+in	2	IN	O
+mash	4	NN	B-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+mother	6	NN	B-character.name
+in	2	IN	O
+tarkovsky	9	NP	B-director.name
+'s	2	POS	O
+mirror	6	NN	B-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+actor	5	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+muthyala	8	NN	B-movie.name
+muggu	5	NN	I-movie.name
+	
+who	3	WP	O
+are	3	VBP	O
+the	3	DT	O
+droids	6	NNS	B-character.name
+in	2	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+episode	7	NN	I-movie.name
+four	4	CD	I-movie.name
+	
+who	3	WP	O
+was	3	VBD	O
+that	4	DT	O
+guy	3	NN	O
+again	5	RB	O
+who	3	WP	O
+was	3	VBD	O
+in	2	IN	O
+the	3	DT	B-movie.name
+avengers	8	NNS	I-movie.name
+	
+which	5	WDT	O
+actor	5	NN	O
+played	6	VVD	O
+frodo	5	NN	B-character.name
+in	2	IN	O
+lord	4	NN	B-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+rings	5	NNS	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+actress	7	NN	O
+who	3	WP	O
+played	6	VVD	O
+mother	6	NN	B-character.name
+in	2	IN	O
+mirror	6	NN	B-movie.name
+by	2	IN	O
+andrey	6	NN	B-director.name
+tarkovsky	9	NN	I-director.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+actress	7	NN	O
+who	3	WP	O
+played	6	VVD	O
+mother	6	NN	B-character.name
+in	2	IN	O
+tarkovsky	9	NP	B-director.name
+'s	2	POS	O
+mirror	6	NN	B-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+actor	5	NN	O
+who	3	WP	O
+played	6	VVD	O
+todd	4	NNS	B-character.name
+in	2	IN	O
+the	3	DT	O
+tv	2	NN	O
+show	4	VVP	O
+one	3	CD	B-movie.name
+life	4	NN	I-movie.name
+to	2	TO	I-movie.name
+live	4	VV	I-movie.name
+	
+give	4	VV	O
+me	2	PP	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+main	4	JJ	O
+actress	7	NN	O
+in	2	IN	O
+platoon	7	NN	B-movie.name
+	
+what	4	WP	O
+'s	2	VBZ	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+mom	3	NN	B-character.name
+on	2	IN	O
+seinfeld	8	NP	B-movie.name
+	
+name	4	VV	O
+the	3	DT	O
+co-star	7	NN	O
+in	2	IN	O
+shoot	5	NN	B-movie.name
+to	2	TO	I-movie.name
+kill	4	VV	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+actor	5	NN	O
+who	3	WP	O
+played	6	VVD	O
+atticus	7	NN	B-character.name
+finch	5	NN	I-character.name
+in	2	IN	O
+to	2	TO	B-movie.name
+kill	4	VV	I-movie.name
+a	1	DT	I-movie.name
+mockingbird	11	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+the	3	DT	O
+guy	3	NN	O
+who	3	WP	O
+was	3	VBD	O
+the	3	DT	O
+father	6	NN	B-character.name
+and	3	CC	I-character.name
+a	1	DT	I-character.name
+lawyer	6	NN	I-character.name
+in	2	IN	O
+to	2	TO	B-movie.name
+kill	4	VV	I-movie.name
+a	1	DT	I-movie.name
+mockingbird	11	NN	I-movie.name
+	
+please	6	UH	O
+provide	7	VV	O
+the	3	DT	O
+cost	4	NN	O
+for	3	IN	O
+producing	9	VVG	O
+the	3	DT	O
+deer	4	NN	B-movie.name
+hunter	6	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+epic	4	NN	B-movie.name
+	
+search	6	NN	O
+budget	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+epic	4	NN	B-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+fire	4	NN	B-movie.name
+proof	5	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+fly	3	NN	B-movie.name
+whele	5	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+1st	3	JJ	O
+harry	5	VVP	B-movie.name
+potter	6	NN	I-movie.name
+movie	5	NN	O
+	
+how	3	WRB	O
+much	4	RB	O
+was	3	VBD	O
+spent	5	VVN	O
+on	2	IN	O
+shooting	8	VVG	O
+the	3	DT	O
+last	4	JJ	O
+harry	5	VV	B-movie.name
+potter	6	NN	I-movie.name
+film	4	NN	O
+	
+how	3	WRB	O
+much	4	RB	O
+does	4	VVZ	O
+it	2	PP	O
+cost	4	VVD	O
+to	2	TO	O
+produce	7	VV	O
+looper	6	NN	B-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+it	2	PP	O
+cost	4	VVD	O
+to	2	TO	O
+produce	7	VV	O
+looper	6	NN	B-movie.name
+	
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+was	3	VBD	O
+spent	5	VVN	O
+to	2	TO	O
+produce	7	VV	O
+looper	6	NN	B-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+men	3	NNS	B-movie.name
+in	2	IN	I-movie.name
+black	5	JJ	I-movie.name
+3	1	CD	I-movie.name
+cost	4	NN	O
+	
+how	3	WRB	O
+much	4	RB	O
+was	3	VBD	O
+it	2	PP	O
+to	2	TO	O
+make	4	VV	O
+paranorman	10	NN	B-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+budget	6	NN	O
+to	2	TO	O
+rebel	5	JJ	B-movie.name
+movie	5	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+2	1	CD	I-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+it	2	PP	O
+cost	4	VVD	O
+to	2	TO	O
+create	6	VV	O
+the	3	DT	B-movie.name
+boardwalk	9	NN	I-movie.name
+empire	6	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+expendables	11	NNS	B-movie.name
+1	1	CD	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+budget	6	NN	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+in	2	IN	O
+3d	2	JJ	O
+	
+liongate	8	NNS	B-producer.name
+	
+which	5	WDT	O
+country	7	NN	O
+made	4	VVD	O
+inchochine	10	NN	B-movie.name
+	
+what	4	WP	O
+country	7	NN	O
+filed	5	VVD	O
+les	3	FW	B-movie.name
+mes	3	FW	I-movie.name
+	
+what	4	WP	O
+country	7	NN	O
+is	2	VBZ	O
+les	3	FW	B-movie.name
+mes	3	FW	I-movie.name
+from	4	IN	O
+	
+where	5	WRB	O
+was	3	VBD	O
+the	3	DT	O
+milk	4	NN	B-movie.name
+of	2	IN	I-movie.name
+sorrow	6	NN	I-movie.name
+made	4	VVD	O
+	
+what	4	WP	O
+country	7	NN	O
+is	2	VBZ	O
+shawshank	9	NN	B-movie.name
+redemption	10	NN	I-movie.name
+	
+what	4	WP	O
+country	7	NN	O
+does	4	VVZ	O
+the	3	DT	O
+movie	5	NN	O
+thoda	5	NN	B-movie.name
+pyaar	5	NN	I-movie.name
+thoda	5	NN	I-movie.name
+magic	5	NN	I-movie.name
+comes	5	VVZ	O
+from	4	IN	O
+	
+tell	4	VV	O
+me	2	PP	O
+where	5	WRB	O
+the	3	DT	O
+white	5	JJ	B-movie.name
+ribbon	6	NN	I-movie.name
+came	4	VVD	O
+from	4	IN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+the	3	DT	O
+movie	5	NN	O
+barfi	5	NN	B-movie.name
+!	1	SENT	I-movie.name
+released	8	VVN	O
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+dates	5	NNS	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+barfi	5	NN	B-movie.name
+!	1	SENT	I-movie.name
+	
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+the	3	DT	O
+new	3	JJ	O
+bugs	4	NNS	B-movie.name
+bunny	5	NN	I-movie.name
+film	4	NN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+of	2	IN	O
+evil	4	NN	B-movie.name
+goes	4	VVZ	I-movie.name
+global	6	JJ	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+for	3	IN	O
+jaws	4	NNS	B-movie.name
+17	2	CD	I-movie.name
+in	2	IN	O
+the	3	DT	O
+theaters	8	NNS	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+release	7	NN	O
+date	4	NN	O
+for	3	IN	O
+jurassic	8	JJ	B-movie.name
+park	4	NN	I-movie.name
+4	1	CD	I-movie.name
+	
+list	4	NN	O
+release	7	NN	O
+dates	5	NNS	O
+for	3	IN	O
+the	3	DT	O
+jurassic	8	JJ	B-movie.name
+park	4	NN	I-movie.name
+movies	6	NNS	O
+	
+when	4	WRB	O
+will	4	MD	O
+the	3	DT	O
+movie	5	NN	O
+omg	3	JJ	B-movie.name
+oh	2	UH	I-movie.name
+my	2	PP$	I-movie.name
+god	3	NN	I-movie.name
+be	2	VB	O
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+the	3	DT	O
+lord	4	NN	B-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+rings	5	NNS	I-movie.name
+movie	5	NN	O
+released	8	VVD	O
+	
+whats	5	NNS	O
+paranormal	10	JJ	B-movie.name
+activities	10	NNS	I-movie.name
+release	7	NN	O
+date	4	NN	O
+	
+when	4	WRB	O
+will	4	MD	O
+robocop	7	RB	B-movie.name
+come	4	VV	O
+out	3	RP	O
+	
+when	4	WRB	O
+was	3	VBD	O
+suckerpunch	11	NN	B-movie.name
+be	2	VB	O
+released	8	VVN	O
+	
+when	4	WRB	O
+was	3	VBD	O
+the	3	DT	B-movie.name
+sound	5	NN	I-movie.name
+of	2	IN	I-movie.name
+music	5	NN	I-movie.name
+released	8	VVN	O
+	
+when	4	WRB	O
+will	4	MD	O
+twilight	8	NN	B-movie.name
+breaking	8	VVG	I-movie.name
+dawn	4	NN	I-movie.name
+part	4	NN	I-movie.name
+2	1	CD	I-movie.name
+be	2	VB	O
+released	8	VVN	O
+	
+who	3	WP	O
+directed	8	VVD	O
+ai	2	VVP	B-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+downton	7	NN	B-movie.name
+abbey	5	NN	I-movie.name
+	
+who	3	WP	O
+directed	8	VVD	O
+good	4	JJ	B-movie.name
+bad	3	JJ	I-movie.name
+and	3	CC	I-movie.name
+ugly	4	JJ	I-movie.name
+	
+i	1	NP	O
+can	3	MD	O
+'t	2	NP	O
+remember	8	VV	O
+who	3	WP	O
+directed	8	VVD	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+to	2	TO	B-movie.name
+kill	4	VV	I-movie.name
+a	1	DT	I-movie.name
+mockingbird	11	NN	I-movie.name
+	
+is	2	VBZ	O
+amelie	6	NN	B-movie.name
+in	2	IN	O
+a	1	DT	O
+different	9	JJ	O
+language	8	NN	O
+	
+what	4	WP	O
+language	8	NN	O
+was	3	VBD	O
+amelie	6	NN	B-movie.name
+filmed	6	VVN	O
+in	2	IN	O
+	
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+the	3	DT	O
+full	4	JJ	B-movie.name
+monty	5	NN	I-movie.name
+in	2	IN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+ju	2	NN	B-movie.name
+on	2	RB	I-movie.name
+'s	2	POS	O
+original	8	JJ	O
+language	8	NN	O
+	
+what	4	WP	O
+language	8	NN	O
+is	2	VBZ	O
+secrets	7	NNS	B-movie.name
+and	3	CC	I-movie.name
+lies	4	VVZ	I-movie.name
+in	2	IN	O
+	
+give	4	VV	O
+me	2	PP	O
+names	5	NNS	O
+of	2	IN	O
+some	4	DT	O
+action	6	NN	B-movie.genre
+movies	6	NNS	O
+with	4	IN	O
+a	1	DT	O
+pg	2	NN	B-rating.name
+thirteen	8	CD	I-rating.name
+rating	6	NN	O
+	
+show	4	VV	O
+all	3	DT	O
+comedy	6	NN	B-movie.genre
+musicals	8	NNS	B-movie.genre
+for	3	IN	O
+twenty	6	CD	B-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+are	3	VBP	O
+there	5	RB	O
+any	3	DT	O
+documentaries	13	NNS	B-movie.genre
+on	2	IN	O
+classic	7	JJ	B-movie.subject
+cars	4	NNS	I-movie.subject
+	
+show	4	VV	O
+all	3	DT	O
+dramas	6	NN	B-movie.genre
+produced	8	VVN	O
+in	2	IN	O
+2010	4	CD	B-movie.release_date
+	
+find	4	VV	O
+some	4	DT	O
+mysteries	9	NNS	B-movie.genre
+	
+search	6	NN	O
+romantic	8	JJ	B-movie.genre
+commedies	9	NNS	I-movie.genre
+	
+sci-fi	6	NN	B-movie.genre
+	
+show	4	VV	O
+me	2	PP	O
+westerns	8	NNS	B-movie.genre
+	
+show	4	NN	O
+car	3	NN	B-movie.subject
+documentaries	13	NNS	B-movie.genre
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+katie	5	NP	B-actor.name
+holmes	6	NP	I-actor.name
+flick	5	NN	B-movie.type
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+videos	6	NNS	B-movie.type
+of	2	IN	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+	
+videos	6	NNS	B-movie.type
+related	7	VVN	O
+to	2	TO	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+	
+new	3	JJ	O
+released	8	VVN	O
+videos	6	NNS	B-movie.type
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+brazilian	9	NN	B-country.name
+movies	6	NNS	O
+	
+show	4	VV	O
+all	3	DT	O
+canandian	9	JJ	B-country.name
+movies	6	NNS	O
+for	3	IN	O
+nineteen	8	CD	B-movie.release_date
+eighty	6	CD	I-movie.release_date
+	
+what	4	WP	O
+movies	6	NNS	O
+were	4	VBD	O
+made	4	VVN	O
+in	2	IN	O
+ireland	7	NN	B-country.name
+this	4	DT	B-movie.release_date
+year	4	NN	I-movie.release_date
+	
+find	4	VV	O
+philipino	9	NN	B-country.name
+movies	6	NNS	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+highest-grossing	16	JJ	O
+movies	6	NNS	O
+from	4	IN	O
+portugal	8	NN	B-country.name
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+america	7	NN	B-country.name
+about	5	IN	O
+obama	5	NN	B-movie.subject
+	
+i	1	NP	O
+'d	2	MD	O
+love	4	VV	O
+to	2	TO	O
+watch	5	VV	O
+an	2	DT	O
+albert	6	NN	B-director.name
+ruddy	5	JJ	I-director.name
+movie	5	NN	O
+	
+what	4	WP	O
+other	5	JJ	O
+films	5	NNS	O
+has	3	VHZ	O
+arthur	6	NN	B-director.name
+ruddy	5	JJ	I-director.name
+done	4	VVN	O
+	
+bring	5	VV	O
+up	2	RP	O
+all	3	DT	O
+movies	6	NNS	O
+brad	4	NN	B-director.name
+pitt	4	NN	I-director.name
+directed	8	VVD	O
+	
+what	4	WP	O
+movies	6	NNS	O
+has	3	VHZ	O
+brad	4	NN	B-director.name
+pitt	4	NN	I-director.name
+directed	8	VVD	O
+	
+movies	6	NNS	O
+by	2	IN	O
+david	5	JJ	B-director.name
+selsnic	7	NN	I-director.name
+	
+did	3	VVD	O
+holly	5	NN	B-director.name
+hunter	6	NN	I-director.name
+direct	6	VV	O
+any	3	DT	O
+movies	6	NNS	O
+	
+what	4	WP	O
+movies	6	NNS	O
+did	3	VVD	O
+joe	3	NN	B-director.name
+coen	4	NNS	I-director.name
+do	2	VVP	O
+	
+movies	6	NNS	O
+by	2	IN	O
+john	4	NN	B-director.name
+paul	4	NNS	I-director.name
+as	2	IN	O
+a	1	DT	O
+director	8	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+john	4	NN	B-director.name
+paul	4	NNS	I-director.name
+	
+tom	3	NN	B-director.name
+cruise	6	NN	I-director.name
+has	3	VHZ	O
+directed	8	VVN	O
+what	4	WP	O
+movies	6	NNS	O
+	
+please	6	UH	O
+list	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+tom	3	NN	B-director.name
+cruise	6	NN	I-director.name
+	
+wesley	6	NN	B-director.name
+snipes	6	NNS	I-director.name
+directed	8	VVD	O
+what	4	WP	O
+movie	5	NN	O
+	
+find	4	VV	O
+action	6	NN	B-movie.genre
+movies	6	NNS	O
+with	4	IN	O
+john	4	NN	B-actor.name
+travolta	8	NN	I-actor.name
+	
+show	4	VV	O
+all	3	DT	O
+animation	9	NN	B-movie.genre
+films	5	NNS	O
+for	3	IN	O
+twenty	6	CD	B-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+animated	8	JJ	B-movie.genre
+pg	2	NN	B-rating.name
+thirteen	8	CD	I-rating.name
+movies	6	NNS	O
+	
+physfi	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+i	1	NP	O
+like	4	IN	O
+sci-fi	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+films	5	NNS	O
+released	8	VVN	O
+in	2	IN	O
+september	9	NN	B-movie.release_date
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+released	8	VVN	O
+in	2	IN	O
+september	9	NN	B-movie.release_date
+	
+look	4	VV	O
+up	2	RP	O
+all	3	DT	O
+movies	6	NNS	O
+coming	6	VVG	O
+in	2	IN	O
+september	9	NN	B-movie.release_date
+	
+find	4	VV	O
+movies	6	NNS	O
+for	3	IN	O
+twenty	6	CD	B-movie.release_date
+ten	3	CD	I-movie.release_date
+	
+most	4	RBS	O
+recent	6	JJ	O
+zombie	6	NN	B-movie.subject
+movies	6	NNS	O
+	
+search	6	NN	O
+for	3	IN	O
+movies	6	NNS	O
+in	2	IN	O
+chinese	7	NN	B-movie.language
+	
+find	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+in	2	IN	O
+chinese	7	NN	B-movie.language
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+all	3	DT	O
+movies	6	NNS	O
+shown	5	VVN	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+farsi	5	NNS	B-movie.language
+	
+send	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+in	2	IN	O
+french	6	NN	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+movies	6	NNS	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+find	4	VV	O
+movies	6	NNS	O
+using	5	VVG	O
+the	3	DT	O
+french	6	JJ	B-movie.language
+langauage	9	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+movies	6	NNS	O
+in	2	IN	O
+french	6	NNS	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+german	6	NN	B-movie.language
+before	6	IN	O
+2000	4	CD	B-movie.release_date
+	
+give	4	VV	O
+me	2	PP	O
+some	4	DT	O
+movies	6	NNS	O
+which	5	WDT	O
+were	4	VBD	O
+filmed	6	VVN	O
+in	2	IN	O
+polish	6	NN	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+portugese	9	NN	B-movie.language
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+in	2	IN	O
+the	3	DT	O
+spanish	7	JJ	B-movie.language
+language	8	NN	O
+	
+movies	6	NNS	O
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+i	1	NNS	O
+am	2	VBP	O
+searching	9	VVG	O
+for	3	IN	O
+movies	6	NNS	O
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+look	4	VV	O
+for	3	IN	O
+movies	6	NNS	O
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+find	4	VV	O
+movies	6	NNS	O
+in	2	IN	O
+swahili	7	NNS	B-movie.language
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+all	3	DT	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+alfred	6	NNS	B-producer.name
+ruddy	5	JJ	I-producer.name
+	
+what	4	WP	O
+other	5	JJ	O
+movies	6	NNS	O
+charles	7	NNS	B-producer.name
+vidor	5	NN	I-producer.name
+produce	7	NN	O
+	
+has	3	VHZ	O
+jennifer	8	NN	B-producer.name
+anniston	8	NN	I-producer.name
+produced	8	VVD	O
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movies	6	NNS	O
+produced	8	VVN	O
+by	2	IN	O
+m	1	NN	B-producer.name
+s	1	NN	I-producer.name
+raju	4	NN	I-producer.name
+	
+list	4	VV	O
+the	3	DT	O
+movies	6	NNS	O
+created	7	VVN	O
+by	2	IN	O
+7	1	CD	B-producer.name
+arts	4	NNS	I-producer.name
+	
+lionsgate	9	NN	B-producer.name
+=	1	SYM	O
+i	1	FW	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+get	3	VV	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+your	4	PP$	O
+movies	6	NNS	O
+from	4	IN	O
+two	3	CD	B-movie.release_date
+thousand	8	CD	I-movie.release_date
+and	3	CC	I-movie.release_date
+nine	4	CD	I-movie.release_date
+to	2	TO	I-movie.release_date
+two	3	CD	I-movie.release_date
+thousand	8	CD	I-movie.release_date
+and	3	CC	I-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+twentieth	9	JJ	B-producer.name
+century	7	NN	I-producer.name
+fox	3	NN	I-producer.name
+movies	6	NNS	O
+2012	4	CD	B-movie.release_date
+	
+show	4	VV	O
+me	2	PP	O
+nc	2	NN	B-rating.name
+minus	5	CC	I-rating.name
+seventeen	9	CD	I-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+with	4	IN	O
+not	3	RB	B-rating.name
+rated	5	VVN	I-rating.name
+rating	6	NN	O
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+nr	2	NN	B-rating.name
+movies	6	NNS	O
+	
+what	4	WP	O
+is	2	VBZ	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+pg	2	NN	B-rating.name
+thirteen	8	CD	I-rating.name
+action	6	NN	B-movie.genre
+movies	6	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+pg	2	NN	B-rating.name
+thirteen	8	CD	I-rating.name
+movie	5	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+complete	8	JJ	O
+list	4	NN	O
+of	2	IN	O
+r	1	NN	B-rating.name
+rated	5	VVN	O
+movies	6	NNS	O
+that	4	WDT	O
+came	4	VVD	O
+out	3	RP	O
+in	2	IN	O
+the	3	DT	B-movie.release_date
+last	4	JJ	I-movie.release_date
+30	2	CD	I-movie.release_date
+days	4	NNS	I-movie.release_date
+	
+show	4	VV	O
+me	2	PP	O
+all	3	DT	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+movies	6	NNS	O
+by	2	IN	O
+paramount	9	NN	B-producer.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+are	3	VBP	O
+unrated	7	JJ	B-rating.name
+	
+list	4	NN	O
+movies	6	NNS	O
+from	4	IN	O
+1995	4	CD	B-movie.release_date
+with	4	IN	O
+adam	4	NN	B-actor.name
+sandler	7	NN	I-actor.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+with	4	IN	O
+alan	4	JJ	B-actor.name
+rickmman	8	NN	I-actor.name
+	
+which	5	WDT	O
+movies	6	NNS	O
+has	3	VHZ	O
+angelina	8	NN	B-actor.name
+jolie	5	NN	I-actor.name
+starred	7	VVD	O
+this	4	DT	B-movie.release_date
+season	6	NN	I-movie.release_date
+	
+what	4	WP	O
+movie	5	NN	O
+was	3	VBD	O
+angelina	8	VVG	B-actor.name
+a	1	DT	O
+main	4	JJ	B-character.name
+actress	7	NN	I-character.name
+	
+look	4	VV	O
+up	2	RP	O
+movies	6	NNS	O
+starring	8	VVG	O
+the	3	DT	O
+singer	6	NN	B-actor.type
+mario	5	NN	B-actor.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+find	4	VV	O
+movies	6	NNS	O
+starring	8	VVG	O
+the	3	DT	O
+singer	6	NN	B-actor.type
+mario	5	NN	B-actor.name
+	
+look	4	NN	O
+for	3	IN	O
+movies	6	NNS	O
+with	4	IN	O
+max	3	NP	B-actor.name
+von	3	NP	I-actor.name
+sudow	5	NN	I-actor.name
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+have	4	VHP	O
+patrick	7	JJ	B-actor.name
+swayze	6	NNS	I-actor.name
+and	3	CC	O
+jennifer	8	NN	B-actor.name
+grey	4	NN	I-actor.name
+in	2	IN	O
+them	4	PP	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	IN/that	O
+star	4	JJ	O
+patrick	7	NN	B-actor.name
+swayze	6	NNS	I-actor.name
+starred	7	VVN	O
+in	2	IN	O
+from	4	IN	O
+nineteen	8	CD	B-movie.release_date
+eighty	6	CD	I-movie.release_date
+seven	5	CD	I-movie.release_date
+	
+what	4	WP	O
+is	2	VBZ	O
+that	4	DT	O
+dancing	7	VVG	B-movie.subject
+movie	5	NN	O
+with	4	IN	O
+patrick	7	NN	B-actor.name
+swayze	6	NNS	I-actor.name
+	
+movies	6	NNS	O
+of	2	IN	O
+sharukh	7	NN	B-actor.name
+khan	4	NN	I-actor.name
+	
+movie	5	NN	O
+that	4	IN/that	O
+tom	3	NN	B-actor.name
+hanks	5	NNS	I-actor.name
+and	3	CC	O
+kevin	5	NN	B-actor.name
+becon	5	NN	I-actor.name
+played	6	VVN	O
+in	2	IN	O
+together	8	RB	O
+	
+movies	6	NNS	O
+about	5	IN	O
+animals	7	NNS	B-movie.subject
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+about	5	IN	O
+bollywood	9	NN	B-movie.subject
+	
+chess	5	NN	B-movie.subject
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+on	2	IN	O
+chess	5	NN	B-movie.subject
+	
+what	4	WP	O
+are	3	VBP	O
+some	4	DT	O
+movies	6	NNS	O
+about	5	IN	O
+disco	5	NN	B-movie.subject
+	
+what	4	WP	O
+movies	6	NNS	O
+can	3	MD	O
+offer	5	VV	O
+tips	4	NNS	O
+on	2	IN	O
+gardening	9	NN	B-movie.subject
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+look	4	VV	O
+up	2	RP	O
+movies	6	NNS	O
+about	5	IN	O
+hair	4	NN	B-movie.subject
+	
+find	4	VV	O
+movies	6	NNS	O
+about	5	IN	O
+libraries	9	NNS	B-movie.subject
+	
+find	4	VV	O
+some	4	DT	O
+movies	6	NNS	O
+about	5	IN	O
+musicians	9	NNS	B-movie.subject
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+movies	6	NNS	O
+about	5	IN	O
+preschool	9	JJ	B-movie.subject
+boys	4	NNS	I-movie.subject
+	
+look	4	NN	O
+for	3	IN	O
+movies	6	NNS	O
+about	5	IN	O
+preschool	9	JJ	B-movie.subject
+boys	4	NNS	I-movie.subject
+	
+what	4	WP	O
+films	5	NNS	O
+focus	5	VVP	O
+on	2	IN	O
+rape	4	NN	B-movie.subject
+and	3	CC	I-movie.subject
+victim	6	NN	I-movie.subject
+'s	2	POS	I-movie.subject
+rights	6	NNS	I-movie.subject
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+names	5	NNS	O
+of	2	IN	O
+some	4	DT	O
+movies	6	NNS	O
+on	2	IN	O
+religious	9	JJ	B-movie.subject
+issues	6	NNS	I-movie.subject
+	
+give	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+some	4	DT	O
+movies	6	NNS	O
+on	2	IN	O
+religious	9	JJ	B-movie.subject
+issues	6	NNS	I-movie.subject
+	
+look	4	NN	O
+for	3	IN	O
+movies	6	NNS	O
+about	5	IN	O
+school	6	NN	B-movie.subject
+	
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+names	5	NNS	O
+of	2	IN	O
+some	4	DT	O
+soccer	6	NN	B-movie.subject
+movies	6	NNS	O
+	
+what	4	WP	O
+are	3	VBP	O
+some	4	DT	O
+time	4	NN	B-movie.subject
+travel	6	NN	I-movie.subject
+movies	6	NNS	O
+i	1	NP	O
+can	3	MD	O
+watch	5	VV	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+involving	9	VVG	O
+time	4	NN	B-movie.subject
+travel	6	NN	I-movie.subject
+	
+vampire	7	NN	B-movie.subject
+movies	6	NNS	O
+please	6	VVP	O
+	
+list	4	NN	O
+movies	6	NNS	O
+with	4	IN	O
+a	1	DT	O
+theme	5	NN	O
+of	2	IN	O
+war	3	NN	B-movie.subject
+in	2	IN	O
+them	4	PP	O
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+with	4	IN	O
+the	3	DT	O
+theme	5	NN	O
+of	2	IN	O
+war	3	NN	B-movie.subject
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+me	2	PP	O
+some	4	DT	O
+movies	6	NNS	O
+about	5	IN	O
+war	3	NN	B-movie.subject
+	
+i	1	NNS	O
+want	4	VVP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+about	5	IN	O
+war	3	NN	B-movie.subject
+	
+i	1	NNS	O
+want	4	VVP	O
+movies	6	NNS	O
+about	5	IN	O
+war	3	NN	B-movie.subject
+	
+find	4	VV	O
+movies	6	NNS	O
+about	5	IN	O
+world	5	NN	B-movie.subject
+war	3	NN	I-movie.subject
+two	3	CD	I-movie.subject
+	
+what	4	WP	O
+are	3	VBP	O
+some	4	DT	O
+zombie	6	NN	B-movie.subject
+apocalypse	10	NN	I-movie.subject
+movies	6	NNS	O
+	
+search	6	NN	O
+for	3	IN	O
+zombie	6	NN	B-movie.subject
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+belle	5	NN	B-movie.name
+in	2	IN	O
+spanish	7	NN	B-movie.language
+	
+is	2	VBZ	O
+dredd	5	RB	B-movie.name
+rated	5	VVN	O
+r	1	NN	B-rating.name
+	
+take	4	VV	O
+me	2	PP	O
+to	2	TO	O
+the	3	DT	O
+french	6	JJ	B-movie.language
+version	7	NN	O
+of	2	IN	O
+et	2	FW	B-movie.name
+	
+find	4	VV	O
+et	2	NP	B-movie.name
+in	2	IN	O
+french	6	NN	B-movie.language
+	
+find	4	VV	O
+fast	4	JJ	B-movie.name
+and	3	CC	I-movie.name
+furious	7	JJ	I-movie.name
+in	2	IN	O
+japanese	8	NN	B-movie.language
+	
+hard	4	JJ	B-movie.name
+day	3	NN	I-movie.name
+'s	2	POS	I-movie.name
+night	5	NN	I-movie.name
+richard	7	NN	B-director.name
+lester	6	NN	I-director.name
+	
+information	11	NN	O
+about	5	IN	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+movie	5	NN	O
+information	11	NN	O
+for	3	IN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+will	4	MD	O
+you	3	PP	O
+please	6	VV	O
+show	4	VV	O
+me	2	PP	O
+info	4	NN	O
+on	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+please	6	VV	O
+show	4	VV	O
+me	2	PP	O
+info	4	NN	O
+on	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+details	7	NNS	O
+to	2	TO	O
+the	3	DT	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+info	4	NN	O
+on	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+please	6	RB	O
+	
+open	4	VV	O
+a	1	DT	O
+page	4	NN	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+is	2	VBZ	O
+nine	4	CD	B-movie.release_date
+fourteen	8	NN	I-movie.release_date
+the	3	DT	O
+premiere	8	JJ	O
+date	4	NN	O
+for	3	IN	O
+resident	8	JJ	B-movie.name
+evil	4	NN	I-movie.name
+	
+select	6	JJ	O
+rio	3	NN	B-movie.name
+in	2	IN	O
+chinese	7	NN	B-movie.language
+	
+find	4	VV	O
+me	2	PP	O
+the	3	DT	O
+first	5	JJ	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+movie	5	NN	O
+info	4	NN	O
+	
+i	1	NNS	O
+need	4	VVP	O
+details	7	NNS	O
+about	5	IN	O
+the	3	DT	O
+movie	5	NN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+:	1	:	I-movie.name
+episode	7	NN	I-movie.name
+four	4	CD	I-movie.name
+-	1	:	I-movie.name
+a	1	DT	I-movie.name
+new	3	JJ	I-movie.name
+hope	4	NN	I-movie.name
+	
+did	3	VVD	O
+ray	3	NN	B-director.name
+stark	5	JJ	I-director.name
+produce	7	NN	O
+steel	5	NN	B-movie.name
+magnolias	9	NNS	I-movie.name
+	
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+toy	3	NN	B-movie.name
+story	5	NN	I-movie.name
+4	1	CD	I-movie.name
+being	5	VBG	O
+released	8	VVN	O
+next	4	JJ	B-movie.release_date
+summer	6	NN	I-movie.release_date
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+look	4	VV	O
+up	2	RP	O
+information	11	NN	O
+about	5	IN	O
+american	8	JJ	B-country.name
+movies	6	NNS	O
+	
+chinese	7	JJ	B-movie.language
+foreign	7	JJ	O
+film	4	NN	O
+with	4	IN	O
+kungfu	6	NN	B-movie.subject
+	
+french	6	NN	B-movie.language
+movies	6	NNS	O
+for	3	IN	O
+twenty	6	CD	B-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+look	4	NN	O
+for	3	IN	O
+russian	7	JJ	B-movie.language
+movies	6	NNS	O
+by	2	IN	O
+mosfilm	7	NN	B-producer.name
+	
+show	4	NN	O
+production	10	NN	O
+company	7	NN	O
+lionsgate	9	NNS	B-producer.name
+	
+paramount	9	JJ	B-producer.name
+film	4	NN	I-producer.name
+studios	7	NNS	I-producer.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+have	4	VH	O
+more	4	JJR	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+producer	8	NN	O
+ray	3	NN	B-person.name
+stark	5	JJ	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+details	7	NNS	O
+for	3	IN	O
+the	3	DT	O
+director	8	NN	O
+steven	6	JJ	B-director.name
+spielberg	9	NN	I-director.name
+	
+show	4	VV	O
+me	2	PP	O
+that	4	IN/that	O
+actor	5	NN	O
+tom	3	NN	B-actor.name
+cruise	6	NN	I-actor.name
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+actor	5	NN	O
+will	4	MD	B-actor.name
+ferrell	7	VV	I-actor.name
+	
+who	3	WP	O
+produced	8	VVD	O
+the	3	DT	O
+movie	5	NN	O
+great	5	JJ	B-movie.name
+debaters	8	NNS	I-movie.name
+	
+king	4	NN	B-movie.name
+'s	2	POS	I-movie.name
+speech	6	NN	I-movie.name
+production	10	NN	O
+company	7	NN	O
+	
+i	1	NP	O
+wonder	6	NN	O
+who	3	WP	O
+produced	8	VVD	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+	
+i	1	NP	O
+can	3	MD	O
+'t	2	NP	O
+remember	8	VV	O
+who	3	WP	O
+produced	8	VVD	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+	
+who	3	WP	O
+produced	8	VVD	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+	
+movie	5	NN	O
+producers	9	NNS	O
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+end	3	NN	B-movie.name
+of	2	IN	I-movie.name
+watch	5	NN	I-movie.name
+gross	5	JJ	O
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+movie	5	NN	O
+earn	4	VV	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+earnings	8	NNS	O
+for	3	IN	O
+hotel	5	NN	B-movie.name
+transylvania	12	NN	I-movie.name
+	
+what	4	WP	O
+did	3	VVD	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+steet	5	NN	I-movie.name
+gross	5	JJ	O
+	
+revenue	7	NN	O
+for	3	IN	O
+iron	4	NN	B-movie.name
+man	3	NN	I-movie.name
+2	1	CD	I-movie.name
+	
+what	4	WP	O
+amount	6	NN	O
+of	2	IN	O
+revenue	7	NN	O
+did	3	VVD	O
+iron	4	NN	B-movie.name
+man	3	NN	I-movie.name
+make	4	VV	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+gross	5	JJ	O
+revenue	7	NN	O
+of	2	IN	O
+iron	4	NN	B-movie.name
+man	3	NN	I-movie.name
+	
+kahani	6	NP	B-movie.name
+'s	2	POS	O
+revenue	7	NN	O
+	
+get	3	VV	O
+the	3	DT	O
+revenue	7	NN	O
+of	2	IN	O
+kahani	6	NNS	B-movie.name
+	
+revenue	7	NN	O
+looper	6	NN	B-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+looper	6	NN	B-movie.name
+gross	5	JJ	O
+in	2	IN	O
+sales	5	NNS	O
+	
+how	3	WRB	O
+much	4	RB	O
+did	3	VVD	O
+looper	6	NN	B-movie.name
+gross	5	JJ	O
+	
+ho	2	NP	O
+much	4	RB	O
+did	3	VVD	O
+looper	6	NN	B-movie.name
+make	4	VV	O
+	
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+did	3	VVD	O
+mr	2	NN	B-movie.name
+and	3	CC	I-movie.name
+mrs	3	NN	I-movie.name
+smith	5	NN	I-movie.name
+make	4	VV	O
+	
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+did	3	VVD	O
+the	3	DT	O
+movie	5	NN	O
+mr	2	NN	B-movie.name
+and	3	CC	I-movie.name
+mrs	3	NN	I-movie.name
+smith	5	NN	I-movie.name
+make	4	VV	O
+	
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+mr	2	NN	B-movie.name
+and	3	CC	I-movie.name
+mrs	3	NN	I-movie.name
+smith	5	NN	I-movie.name
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+did	3	VVD	O
+the	3	DT	O
+box	3	NN	O
+offfice	7	NN	O
+report	6	NN	O
+	
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+did	3	VVD	O
+philadelphia	12	NN	B-movie.name
+make	4	VV	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+what	4	WP	O
+the	3	DT	O
+revenue	7	NN	O
+for	3	IN	O
+pirates	7	NNS	B-movie.name
+was	3	VBD	O
+	
+how	3	WRB	O
+much	4	RB	O
+was	3	VBD	O
+made	4	VVN	O
+from	4	IN	O
+platoon	7	NN	B-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+gross	5	JJ	O
+revenue	7	NN	O
+earned	6	VVD	O
+by	2	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+in	2	IN	O
+its	3	PP$	O
+original	8	JJ	O
+release	7	NN	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+total	5	JJ	O
+gross	5	JJ	O
+receipts	8	NNS	O
+at	2	IN	O
+the	3	DT	O
+box	3	NN	O
+office	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+	
+what	4	WP	O
+were	4	VBD	O
+the	3	DT	O
+gross	5	JJ	O
+receipts	8	NNS	O
+for	3	IN	O
+hunger	6	NN	B-movie.name
+games	5	NNS	I-movie.name
+	
+tell	4	VV	O
+me	2	PP	O
+how	3	WRB	O
+much	4	JJ	O
+money	5	NN	O
+tommy	5	NN	B-movie.name
+boy	3	NN	I-movie.name
+made	4	VVD	O
+	
+how	3	WRB	O
+much	4	JJ	O
+revenue	7	NN	O
+did	3	VVD	O
+top	3	JJ	B-movie.name
+gun	3	NN	I-movie.name
+make	4	VV	O
+	
+tell	4	VV	O
+me	2	PP	O
+the	3	DT	O
+revenue	7	NN	O
+of	2	IN	O
+training	8	NN	B-movie.name
+day	3	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+about	5	RB	O
+	
+show	4	VV	O
+me	2	PP	O
+a	1	DT	O
+list	4	NN	O
+of	2	IN	O
+production	10	NN	O
+companies	9	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+viewer	6	NN	O
+ratings	7	NNS	O
+in	2	IN	B-movie.name
+orange	6	NN	I-movie.name
+	
+is	2	VBZ	O
+in	2	RB	B-movie.name
+july	4	RB	I-movie.name
+on	2	IN	O
+netflix	7	NN	O
+	
+rate	4	NN	O
+movies	6	NNS	O
+	
+find	4	VV	O
+the	3	DT	O
+actor	5	NN	O
+that	4	WDT	O
+sings	5	VVZ	O
+let	3	VV	O
+me	2	PP	O
+love	4	VV	O
+you	3	PP	O
+	
+what	4	WP	O
+is	2	VBZ	O
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+up	2	RB	O
+to	2	TO	O
+	
+israel	6	NP	B-country.name
+are	3	VBP	O
+all	3	PDT	O
+your	4	PP$	O
+movies	6	NNS	O
+in	2	IN	O
+your	4	PP$	O
+native	6	JJ	O
+language	8	NN	O
+or	2	CC	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+what	4	WP	O
+'s	2	VBZ	O
+playing	7	VVG	O
+tonight	7	RB	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NNS	O
+buy	3	VV	O
+this	4	DT	O
+movie	5	NN	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+if	2	IN	O
+this	4	DT	O
+is	2	VBZ	O
+a	1	DT	O
+real	4	RB	O
+scary	5	JJ	B-movie.genre
+	
+how	3	WRB	O
+to	2	TO	O
+rent	4	VV	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+can	3	MD	O
+i	1	NP	O
+rent	4	NN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+on	2	IN	O
+netflix	7	NN	O
+	
+hotel	5	NN	B-movie.name
+rwanda	6	NN	I-movie.name
+is	2	VBZ	O
+based	5	VVN	O
+on	2	IN	O
+what	4	WP	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+where	5	WRB	O
+you	3	PP	O
+keep	4	VVP	O
+resident	8	JJ	B-movie.name
+evil	4	NN	I-movie.name
+	
+in	2	IN	O
+september	9	NN	O
+	
+dvd	3	NNS	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+find	4	VV	O
+movie	5	NN	O
+from	4	IN	O
+criteria	8	NNS	O
+	
+find	4	VV	O
+a	1	DT	O
+movie	5	NN	O
+	
+can	3	MD	O
+you	3	PP	O
+tell	4	VV	O
+me	2	PP	O
+which	5	WDT	O
+movie	5	NN	O
+made	4	VVD	O
+the	3	DT	O
+most	4	JJS	O
+at	2	IN	O
+the	3	DT	O
+box	3	NN	O
+office	6	NN	O
+in	2	IN	O
+the	3	DT	O
+weekend	7	NN	O
+of	2	IN	O
+september	9	NN	O
+twenty	6	CD	O
+eighth	6	NN	O
+	
+find	4	VV	O
+movies	6	NNS	O
+selected	8	VVN	O
+on	2	IN	O
+all	3	DT	O
+criteria	8	NNS	O
+	
+options	7	NNS	O
+available	9	JJ	O
+for	3	IN	O
+movies	6	NNS	O
+today	5	NN	O
+	
+find	4	VV	O
+all	3	DT	O
+selected	8	JJ	O
+criteria	8	NNS	O
+	
+search	6	NN	O
+highlighted	11	VVD	O
+information	11	NN	O
+	
+bring	5	VV	O
+up	2	RP	O
+movie	5	NN	O
+request	7	NN	O
+	
+find	4	VV	O
+selected	8	JJ	O
+information	11	NN	O
+	
+find	4	VV	O
+selected	8	JJ	O
+criteria	8	NNS	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NP	O
+watch	5	NN	O
+movie	5	NN	O
+	
+search	6	VV	O
+all	3	DT	O
+databases	9	NNS	O
+	
+search	6	NN	O
+databases	9	NNS	O
+	
+where	5	WRB	O
+can	3	MD	O
+i	1	NNS	O
+see	3	VV	O
+movie	5	NN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+age	3	NN	O
+limit	5	NN	O
+for	3	IN	O
+the	3	DT	O
+pg	2	NN	B-rating.name
+rating	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+hotel	5	NN	B-movie.name
+transylvania	12	NN	B-movie.name
+	
+what	4	WP	O
+does	4	VVZ	O
+the	3	DT	O
+rating	6	NN	O
+r	1	SYM	B-rating.name
+mean	4	JJ	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+dred	4	VVD	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+sequels	7	NNS	O
+or	2	CC	O
+prequels	8	NNS	O
+to	2	TO	O
+this	4	DT	O
+movie	5	NN	O
+	
+how	3	WRB	O
+long	4	RB	O
+did	3	VVD	O
+it	2	PP	O
+take	4	VV	O
+james	5	NNS	B-producer.name
+cameron	7	NN	I-producer.name
+to	2	TO	O
+produce	7	VV	O
+avatar	6	NN	B-movie.name
+	
+is	2	VBZ	O
+this	4	DT	O
+film	4	NN	O
+dubbed	6	VVN	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+apollo	6	NN	B-movie.name
+thirteen	8	CD	I-movie.name
+cast	4	NN	O
+was	3	VBD	O
+chosen	6	VVN	O
+how	3	WRB	O
+	
+what	4	WP	O
+other	5	JJ	O
+formats	7	NNS	O
+is	2	VBZ	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+in	2	IN	O
+	
+in	2	IN	O
+how	3	WRB	O
+many	4	JJ	O
+days	4	NNS	O
+did	3	VVD	O
+it	2	PP	O
+take	4	VVP	O
+to	2	TO	O
+make	4	VV	O
+twenty	6	CD	B-movie.gross_revenue
+one	3	CD	I-movie.gross_revenue
+point	5	NN	I-movie.gross_revenue
+two	3	CD	I-movie.gross_revenue
+for	3	IN	O
+looper	6	NN	B-movie.name
+	
+what	4	WP	O
+age	3	NN	O
+group	5	NN	O
+is	2	VBZ	O
+for	3	IN	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+behind	6	IN	O
+scenes	6	NNS	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+in	2	IN	B-movie.name
+orange	6	NN	I-movie.name
+	
+how	3	WRB	O
+long	4	RB	O
+do	2	VVP	O
+you	3	PP	O
+predict	7	VVP	O
+that	4	IN/that	O
+wb	2	NN	B-producer.name
+will	4	MD	O
+continue	8	VV	O
+to	2	TO	O
+strive	6	VV	O
+in	2	IN	O
+today	5	NN	O
+'s	2	POS	O
+market	6	NN	O
+	
+the	3	DT	O
+crap	4	NN	O
+	
+who	3	WP	O
+determines	10	VVZ	O
+the	3	DT	O
+ratings	7	NNS	O
+on	2	IN	O
+movies	6	NNS	O
+	
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+should	6	MD	O
+of	2	IN	O
+made	4	VVD	O
+more	4	JJR	O
+money	5	NN	O
+	
+find	4	VV	O
+me	2	PP	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+news	4	NN	O
+	
+who	3	WP	O
+else	4	RB	O
+could	5	MD	O
+have	4	VH	O
+preformed	9	VVN	O
+your	4	PP$	O
+job	3	NN	O
+	
+twenty	6	CD	B-movie.gross_revenue
+one	3	CD	I-movie.gross_revenue
+point	5	NN	I-movie.gross_revenue
+two	3	CD	I-movie.gross_revenue
+was	3	VBD	O
+paid	4	VVN	O
+out	3	RP	O
+	
+find	4	VV	O
+some	4	DT	O
+notes	5	NNS	O
+on	2	IN	O
+parental	8	JJ	O
+guidance	8	NN	O
+please	6	VV	O
+	
+who	3	WP	O
+came	4	VVD	O
+up	2	RP	O
+for	3	IN	O
+the	3	DT	O
+main	4	JJ	O
+plot	4	NN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+standard	8	NN	O
+to	2	TO	O
+be	2	VB	O
+rated	5	VVN	O
+g	1	NN	B-rating.name
+	
+i	1	NP	O
+love	4	NN	O
+taye	4	NN	B-person.name
+diggs	5	NNS	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movie	5	NN	O
+reviews	7	VVZ	O
+in	2	IN	O
+orange	6	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+celebrities	11	NNS	O
+	
+how	3	WRB	O
+old	3	JJ	O
+do	2	VVP	O
+you	3	PP	O
+have	4	VHP	O
+to	2	TO	O
+be	2	VB	O
+to	2	TO	O
+see	3	VV	O
+an	2	DT	O
+r-rated	7	JJ	B-rating.name
+movie	5	NN	O
+	
+does	4	VVZ	O
+ireland	7	NP	B-country.name
+have	4	VHP	O
+an	2	DT	O
+equivalent	10	NN	O
+to	2	TO	O
+th	2	NN	O
+us	2	PP	B-country.name
+oscar	5	NN	B-award.ceremony
+awards	6	NNS	O
+	
+click	5	NN	O
+on	2	IN	O
+the	3	DT	O
+most	4	RBS	O
+popular	7	JJ	O
+movie	5	NN	O
+in	2	IN	O
+orange	6	NN	O
+	
+brazil	6	NN	B-movie.location
+movie	5	NN	O
+locations	9	NNS	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+history	7	NN	O
+behind	6	IN	O
+lionsgate	9	NNS	B-producer.name
+	
+what	4	WP	O
+does	4	VVZ	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rating	6	NN	O
+mean	4	VVP	O
+on	2	IN	O
+a	1	DT	O
+movie	5	NN	O
+	
+can	3	MD	O
+you	3	PP	O
+give	4	VV	O
+me	2	PP	O
+more	4	JJR	O
+information	11	NN	O
+about	5	IN	O
+the	3	DT	O
+text	4	NN	O
+highlighted	11	VVN	O
+in	2	IN	O
+orange	6	NN	O
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+recommended	11	JJ	O
+ages	4	NNS	O
+for	3	IN	O
+a	1	DT	O
+pg	2	NN	B-rating.name
+movie	5	NN	O
+	
+send	4	VV	O
+dredd	5	NN	B-movie.name
+movie	5	NN	O
+	
+jenn	4	NP	B-person.name
+ann	3	NP	I-person.name
+lover	5	NN	O
+	
+did	3	VVD	O
+kristen	7	NP	B-person.name
+stewart	7	NP	I-person.name
+have	4	VHP	O
+an	2	DT	O
+affair	6	NN	O
+with	4	IN	O
+the	3	DT	O
+director	8	NN	O
+of	2	IN	O
+snow	4	NN	B-movie.name
+white	5	NN	I-movie.name
+and	3	CC	I-movie.name
+the	3	DT	I-movie.name
+huntsman	8	NN	I-movie.name
+	
+show	4	VV	O
+me	2	PP	O
+movie	5	NN	O
+highlights	10	NNS	O
+in	2	IN	O
+orange	6	NN	O
+	
+need	4	NN	O
+to	2	TO	O
+rate	4	NN	O
+movie	5	NN	O
+	
+how	3	WRB	O
+old	3	JJ	O
+do	2	VVP	O
+you	3	PP	O
+have	4	VHP	O
+to	2	TO	O
+be	2	VB	O
+to	2	TO	O
+see	3	VV	O
+a	1	DT	O
+rated	5	VVN	O
+r	1	NN	B-rating.name
+movie	5	NN	O
+	
+what	4	WP	O
+does	4	VVZ	O
+a	1	DT	O
+pg	2	NN	B-rating.name
+thirteen	8	CD	I-rating.name
+rating	6	NN	O
+mean	4	NN	O
+	
+twenty	6	CD	B-movie.gross_revenue
+one	3	CD	I-movie.gross_revenue
+point	5	NN	I-movie.gross_revenue
+two	3	CD	I-movie.gross_revenue
+is	2	VBZ	O
+the	3	DT	O
+first	5	JJ	O
+week	4	NN	O
+gross	5	JJ	O
+	
+r	1	SYM	B-rating.name
+rating	6	NN	O
+what	4	WP	O
+does	4	VVZ	O
+that	4	RB	O
+include	7	VV	O
+	
+in	2	IN	B-movie.name
+julie	5	NN	I-movie.name
+	
+wb	2	NN	B-producer.name
+-	1	:	O
+what	4	WP	O
+does	4	VVZ	O
+it	2	PP	O
+take	4	VV	O
+to	2	TO	O
+become	6	VV	O
+a	1	DT	O
+movie	5	NN	O
+producer	8	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+hollywood	9	NN	O
+influences	10	NNS	O
+	
+how	3	WRB	O
+does	4	VVZ	O
+a	1	DT	O
+movie	5	NN	O
+receive	7	VV	O
+an	2	DT	O
+r	1	NN	B-rating.name
+rating	6	NN	O
+	
+did	3	VVD	O
+you	3	PP	O
+have	4	VHP	O
+fun	3	NN	O
+on	2	IN	O
+the	3	DT	O
+set	3	NN	O
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+rating	6	NN	O
+symbols	7	NNS	O
+for	3	IN	O
+movies	6	NNS	O
+	
+sb	2	NN	O
+news	4	NN	O
+on	2	IN	O
+life	4	NN	O
+	
+i	1	NNS	O
+have	4	VHP	O
+a	1	DT	O
+thirteen	8	CD	O
+year	4	NN	O
+old	3	JJ	O
+	
+end	3	NN	B-movie.name
+of	2	IN	I-movie.name
+watch	5	NN	I-movie.name
+shoulde	7	NN	O
+of	2	IN	O
+made	4	VVD	O
+less	4	JJR	O
+money	5	NN	O
+	
+when	4	WRB	O
+the	3	DT	O
+movie	5	NN	O
+comes	5	VVZ	O
+out	3	RB	O
+do	2	VV	O
+you	3	PP	O
+think	5	VVP	O
+it	2	PP	O
+will	4	MD	O
+raise	5	VV	O
+in	2	IN	O
+the	3	DT	O
+box	3	NN	O
+office	6	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movie	5	NN	O
+list	4	NN	O
+in	2	IN	O
+orange	6	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+story	5	NN	O
+of	2	IN	O
+the	3	DT	O
+armstrong	9	NN	B-person.name
+siddeley	8	NN	I-person.name
+	
+classic	7	JJ	O
+cars	4	NNS	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+learn	5	VV	O
+about	5	IN	O
+flowers	7	NNS	O
+	
+out	3	IN	O
+camping	7	NN	O
+	
+happy	5	JJ	O
+	
+interesting	11	JJ	O
+	
+sort	4	NN	O
+by	2	IN	O
+spanish	7	NN	B-movie.language
+	
+where	5	WRB	O
+is	2	VBZ	O
+punjabi	7	NN	B-movie.language
+	
+what	4	WP	O
+is	2	VBZ	O
+robert	6	NN	B-person.name
+wise	4	NN	I-person.name
+'s	2	POS	O
+middle	6	JJ	O
+name	4	NN	O
+	
+ferret	6	NN	O
+	
+forty	5	NN	O
+three	5	CD	O
+million	7	CD	O
+what	4	WP	O
+	
+twenty	6	CD	O
+one	3	CD	O
+point	5	NN	O
+two	3	CD	O
+million	7	CD	O
+dollars	7	NNS	O
+was	3	VBD	O
+divided	7	VVN	O
+between	7	IN	O
+who	3	WP	O
+	
+do	2	VV	O
+movie	5	NN	O
+authors	7	NNS	O
+use	3	VVP	O
+real	4	JJ	O
+countries	9	NNS	O
+	
+on	2	IN	O
+lies	4	NNS	O
+	
+the	3	DT	O
+movie	5	NN	O
+a	1	DT	B-movie.name
+tanu	4	NN	I-movie.name
+is	2	VBZ	O
+from	4	IN	O
+hungary	7	NN	B-country.name
+;	1	:	O
+where	5	WRB	O
+is	2	VBZ	O
+the	3	DT	O
+country	7	NN	O
+hungary	7	NN	B-country.name
+	
+how	3	WRB	O
+fun	3	NN	O
+is	2	VBZ	O
+it	2	PP	O
+to	2	TO	O
+produce	7	VV	O
+a	1	DT	O
+movie	5	NN	O
+	
+did	3	VVD	O
+you	3	PP	O
+like	4	IN	O
+working	7	VVG	O
+with	4	IN	O
+who	3	WP	O
+you	3	PP	O
+did	3	VVD	O
+	
+can	3	MD	O
+i	1	NNS	O
+see	3	VV	O
+a	1	DT	O
+map	3	NN	O
+of	2	IN	O
+canada	6	NP	B-country.name
+	
+was	3	VBD	O
+your	4	PP$	O
+journey	7	NN	O
+worth	5	NN	O
+it	2	PP	O
+	
+south	5	JJ	O
+american	8	JJ	O
+country	7	NN	O
+flags	5	NNS	O
+	
+need	4	VV	O
+more	4	JJR	O
+info	4	NN	O
+that	4	WDT	O
+relates	7	VVZ	O
+to	2	TO	O
+china	5	NN	B-country.name
+	
+flags	5	NNS	O
+of	2	IN	O
+planet	6	NN	O
+earth	5	NN	O
+	
+best	4	JJS	O
+writers	7	NNS	O
+in	2	IN	O
+the	3	DT	O
+field	5	NN	O
+	
+find	4	VV	O
+the	3	DT	O
+male	4	JJ	O
+actor	5	NN	O
+from	4	IN	O
+grand	5	JJ	B-movie.name
+torino	6	NN	I-movie.name
+	
+who	3	WP	O
+played	6	VVD	O
+the	3	DT	O
+female	6	JJ	O
+lead	4	NN	O
+in	2	IN	O
+hitch	5	NN	B-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+female	6	JJ	O
+actress	7	NN	O
+from	4	IN	O
+shallow	7	JJ	B-movie.name
+hal	3	NNS	I-movie.name
+	
+who	3	WP	O
+is	2	VBZ	O
+in	2	IN	O
+picture	7	NN	O
+three	5	CD	O
+	
+who	3	WP	O
+are	3	VBP	O
+the	3	DT	O
+lead	4	JJ	O
+actors	6	NNS	O
+	
+how	3	WRB	O
+old	3	NN	O
+is	2	VBZ	O
+jennifer	8	NN	B-person.name
+aniston	7	NN	I-person.name
+	
+when	4	WRB	O
+was	3	VBD	O
+will	4	NN	B-person.name
+ferrell	7	NN	I-person.name
+born	4	VVN	O
+	
+where	5	WRB	O
+was	3	VBD	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+directed	8	VVD	O
+	
+where	5	WRB	O
+was	3	VBD	O
+muriel	6	NP	B-movie.name
+'s	2	POS	I-movie.name
+wedding	7	NN	I-movie.name
+shot	4	NN	O
+	
+show	4	NN	O
+release	7	NN	O
+date	4	NN	O
+in	2	IN	O
+the	3	DT	B-movie.release_region
+usa	3	NN	I-movie.release_region
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+little	6	JJ	B-movie.name
+women	5	NNS	I-movie.name
+	
+show	4	NN	O
+movie	5	NN	O
+description	11	NN	O
+	
+i	1	NP	O
+'d	2	MD	O
+like	4	VV	O
+to	2	TO	O
+see	3	VV	O
+popular	7	JJ	O
+film	4	NN	O
+directors	9	NNS	O
+from	4	IN	O
+the	3	DT	O
+nineteen	8	CD	B-movie.release_date
+fifty	5	CD	I-movie.release_date
+'s	2	VBZ	I-movie.release_date
+through	7	IN	I-movie.release_date
+today	5	NN	I-movie.release_date
+	
+best	4	JJS	O
+director	8	NN	O
+	
+best	4	JJS	O
+directors	9	NNS	O
+of	2	IN	O
+all	3	DT	O
+time	4	NN	O
+	
+please	6	UH	O
+show	4	VV	O
+me	2	PP	O
+famous	6	JJ	O
+film	4	NN	O
+directors	9	NNS	O
+	
+greatest	8	JJS	O
+directors	9	NNS	O
+	
+who	3	WP	O
+produced	8	VVD	O
+some	4	DT	O
+of	2	IN	O
+the	3	DT	O
+most	4	RBS	O
+popular	7	JJ	O
+movies	6	NNS	O
+	
+show	4	VV	O
+me	2	PP	O
+successful	10	JJ	O
+movie	5	NN	O
+directors	9	NNS	O
+	
+who	3	WP	O
+produced	8	VVD	O
+hotel	5	NN	B-movie.name
+rwanda	6	NNS	I-movie.name
+cover	5	VVP	O
+art	3	NN	O
+	
+who	3	WP	O
+'s	2	VBZ	O
+the	3	DT	O
+director	8	NN	O
+	
+director	8	NN	O
+'s	2	POS	O
+name	4	NN	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+a	1	DT	O
+turkish	7	JJ	B-director.nationality
+director	8	NN	O
+that	4	WDT	O
+produced	8	VVD	O
+a	1	DT	O
+drama	5	NN	B-movie.genre
+film	4	NN	O
+	
+watch	5	NN	O
+dredd	5	NN	B-movie.name
+movie	5	NN	O
+	
+see	3	VV	O
+dredd	5	NN	B-movie.name
+movie	5	NN	O
+	
+what	4	WP	O
+was	3	VBD	O
+the	3	DT	O
+name	4	NN	O
+of	2	IN	O
+an	2	DT	O
+academy	7	NN	B-award.ceremony
+award	5	NN	O
+winning	7	VVG	O
+russian	7	JJ	B-country.name
+documentary	11	NN	B-movie.genre
+	
+what	4	WP	O
+movie	5	NN	O
+titles	6	NNS	O
+starring	8	VVG	O
+meryl	5	NN	B-actor.name
+streep	6	NNS	I-actor.name
+earned	6	VVD	O
+oscar	5	NN	B-award.ceremony
+nominations	11	NNS	O
+	
+in	2	IN	O
+search	6	NN	O
+for	3	IN	O
+names	5	NNS	O
+of	2	IN	O
+crew	4	NN	O
+members	7	NNS	O
+please	6	VVP	O
+	
+get	3	VV	O
+me	2	PP	O
+reviews	7	NNS	O
+and	3	CC	O
+info	4	NN	O
+about	5	IN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+movie	5	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+reviews	7	NNS	O
+and	3	CC	O
+info	4	NN	O
+for	3	IN	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+	
+what	4	WP	O
+movies	6	NNS	O
+that	4	DT	O
+clint	5	NN	B-director.name
+eastwood	8	NN	I-director.name
+direct	6	JJ	O
+that	4	IN/that	O
+he	2	PP	O
+won	3	VVD	O
+the	3	DT	O
+best	4	JJS	B-award.category
+director	8	NN	I-award.category
+oscar	5	NN	B-award.ceremony
+for	3	IN	O
+	
+what	4	WP	O
+'s	2	VBZ	O
+hitchcock	9	NN	B-director.name
+'s	2	POS	O
+most	4	RBS	O
+famous	6	JJ	O
+movie	5	NN	O
+	
+tell	4	VV	O
+me	2	PP	O
+some	4	DT	O
+of	2	IN	O
+walter	6	NP	B-director.name
+f	1	SYM	I-director.name
+parkes	6	VVZ	I-director.name
+best	4	JJS	O
+movies	6	NNS	O
+	
+looking	7	VVG	O
+for	3	IN	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+actor	5	NN	O
+number	6	NN	O
+one	3	CD	O
+	
+list	4	NN	O
+of	2	IN	O
+movies	6	NNS	O
+directed	8	VVN	O
+by	2	IN	O
+director	8	NN	O
+three	5	CD	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+film	4	NN	O
+that	4	WDT	O
+grossed	7	VVD	O
+seven	5	CD	B-movie.gross_revenue
+point	5	NN	I-movie.gross_revenue
+two	3	CD	I-movie.gross_revenue
+million	7	CD	I-movie.gross_revenue
+at	2	IN	O
+the	3	DT	O
+box	3	NN	O
+office	6	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	WDT	O
+made	4	VVD	O
+over	4	IN	B-movie.gross_revenue
+seven	5	CD	I-movie.gross_revenue
+million	7	CD	I-movie.gross_revenue
+dollars	7	NNS	I-movie.gross_revenue
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+that	4	IN/that	O
+didn	4	NN	O
+'t	2	NN	O
+gross	5	JJ	O
+much	4	RB	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+movies	6	NNS	O
+from	4	IN	O
+early	5	RB	B-movie.release_date
+two	3	CD	I-movie.release_date
+thousands	9	NNS	I-movie.release_date
+	
+show	4	VV	O
+last	4	JJ	B-movie.release_date
+years	5	NNS	I-movie.release_date
+films	5	NNS	O
+by	2	IN	O
+7	1	CD	B-producer.name
+arts	4	NNS	I-producer.name
+	
+show	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+that	4	WDT	O
+came	4	VVD	O
+out	3	RP	O
+nine	4	CD	B-movie.release_date
+fourteen	8	NN	I-movie.release_date
+twenty	6	CD	I-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+were	4	VBD	O
+there	5	RB	O
+any	3	DT	O
+movies	6	NNS	O
+released	8	VVD	O
+nine	4	CD	B-movie.release_date
+fourteen	8	NN	I-movie.release_date
+twenty	6	CD	I-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+show	4	VV	O
+me	2	PP	O
+movies	6	NNS	O
+from	4	IN	O
+the	3	DT	O
+nineteen	8	CD	B-movie.release_date
+seventies	9	NNS	I-movie.release_date
+	
+can	3	MD	O
+you	3	PP	O
+list	4	VV	O
+all	3	DT	O
+movies	6	NNS	O
+from	4	IN	O
+twenty	6	CD	B-movie.release_date
+twelve	6	NN	I-movie.release_date
+with	4	IN	O
+a	1	DT	O
+rating	6	NN	O
+of	2	IN	O
+three	5	CD	B-movie.star_rating
+stars	5	NNS	O
+and	3	CC	O
+up	2	RB	O
+	
+academy	7	NN	B-award.ceremony
+award	5	NN	O
+lionsgate	9	NN	B-producer.name
+movies	6	NNS	O
+	
+show	4	NN	O
+oscar	5	NN	B-award.ceremony
+winning	7	VVG	O
+movies	6	NNS	O
+by	2	IN	O
+warner	6	NN	B-producer.name
+brothers	8	NNS	I-producer.name
+	
+what	4	WP	O
+movie	5	NN	O
+performance	11	NN	O
+did	3	VVD	O
+meryl	5	NN	B-actor.name
+streep	6	NNS	I-actor.name
+win	3	VVP	O
+her	3	PP$	O
+best	4	JJS	B-award.category
+supporting	10	JJ	I-award.category
+oscar	5	NN	B-award.ceremony
+	
+have	4	VHP	O
+any	3	DT	O
+us	2	PP	B-country.name
+released	8	VVN	O
+movies	6	NNS	O
+been	4	VBN	O
+filmed	6	VVN	O
+on	2	IN	O
+location	8	NN	O
+in	2	IN	O
+the	3	DT	O
+czech	5	NN	B-movie.location
+republic	8	NN	I-movie.location
+	
+what	4	WP	O
+us	2	PP	B-country.name
+release	7	VVP	O
+movies	6	NNS	O
+have	4	VHP	O
+been	4	VBN	O
+filmed	6	VVN	O
+in	2	IN	O
+the	3	DT	O
+czech	5	NN	B-movie.location
+republic	8	NN	I-movie.location
+	
+list	4	NN	O
+movies	6	NNS	O
+set	3	VVN	O
+in	2	IN	O
+ireland	7	NN	B-movie.location
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movies	6	NNS	O
+released	8	VVN	O
+in	2	IN	O
+england	7	NN	B-movie.release_region
+	
+what	4	WP	O
+movies	6	NNS	O
+are	3	VBP	O
+coming	6	VVG	O
+out	3	RP	O
+this	4	DT	B-movie.release_date
+week	4	NN	I-movie.release_date
+in	2	IN	O
+great	5	JJ	B-movie.release_region
+britain	7	NN	I-movie.release_region
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+movies	6	NNS	O
+released	8	VVN	O
+in	2	IN	O
+nepal	5	NN	B-movie.release_region
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+top	3	JJ	O
+five	4	CD	O
+french	6	NN	B-country.name
+movies	6	NNS	O
+of	2	IN	O
+all	3	DT	O
+time	4	NN	O
+	
+what	4	WP	O
+top	3	JJ	O
+films	5	NNS	O
+have	4	VHP	O
+come	4	VVN	O
+out	3	RP	O
+of	2	IN	O
+russia	6	NN	B-country.name
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+top	3	JJ	O
+movies	6	NNS	O
+from	4	IN	O
+spain	5	NN	B-country.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+highest	7	JJS	O
+rated	5	VVN	O
+zombie	6	NN	B-movie.subject
+movie	5	NN	O
+	
+what	4	WP	O
+are	3	VBP	O
+highly	6	RB	O
+rated	5	VVN	O
+zombie	6	NN	B-movie.subject
+movies	6	NNS	O
+i	1	NP	O
+can	3	MD	O
+watch	5	VV	O
+	
+look	4	NN	O
+for	3	IN	O
+popular	7	JJ	O
+movies	6	NNS	O
+	
+search	6	NN	O
+for	3	IN	O
+foreign	7	JJ	B-movie.language
+language	8	NN	I-movie.language
+films	5	NNS	O
+	
+what	4	WP	O
+is	2	VBZ	O
+will	4	NN	B-actor.name
+ferrell	7	NN	I-actor.name
+famous	6	JJ	O
+for	3	IN	O
+	
+is	2	VBZ	O
+this	4	DT	O
+a	1	DT	O
+musical	7	NN	B-movie.genre
+	
+hope	4	VVP	O
+that	4	IN/that	O
+the	3	DT	O
+movie	5	NN	O
+is	2	VBZ	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+is	2	VBZ	O
+this	4	DT	O
+movie	5	NN	O
+in	2	IN	O
+english	7	NN	B-movie.language
+	
+do	2	VV	O
+they	4	PP	O
+speak	5	VV	O
+german	6	JJ	B-movie.language
+in	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+	
+is	2	VBZ	O
+this	4	DT	O
+movie	5	NN	O
+filmed	6	VVN	O
+in	2	IN	O
+india	5	NN	B-movie.location
+	
+show	4	VV	O
+all	3	DT	O
+dawn	4	NN	B-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+dead	4	JJ	I-movie.name
+movies	6	NNS	O
+	
+all	3	DT	O
+of	2	IN	O
+kung	4	NP	B-movie.name
+fu	2	NP	I-movie.name
+panda	5	NN	I-movie.name
+movies	6	NNS	O
+	
+list	4	NN	O
+movies	6	NNS	O
+that	4	WDT	O
+have	4	VHP	O
+time	4	NN	O
+travel	6	NN	O
+in	2	IN	O
+their	5	PP$	O
+title	5	NN	O
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+nine	4	CD	B-movie.release_date
+twenty	6	CD	I-movie.release_date
+eight	5	CD	I-movie.release_date
+release	7	NN	O
+date	4	NN	O
+films	5	NNS	O
+from	4	IN	O
+twenty	6	CD	I-movie.release_date
+twelve	6	NN	I-movie.release_date
+	
+find	4	VV	O
+information	11	NN	O
+about	5	IN	O
+french	6	JJ	B-movie.language
+movies	6	NNS	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+more	4	JJR	O
+about	5	IN	O
+the	3	DT	O
+life	4	NN	O
+and	3	CC	O
+movies	6	NNS	O
+of	2	IN	O
+indian	6	JJ	B-actor.nationality
+actor	5	NN	O
+dilip	5	NN	B-actor.name
+kumar	5	NN	I-actor.name
+	
+what	4	WP	O
+does	4	VVZ	O
+the	3	DT	O
+miramax	7	NN	B-producer.name
+logo	4	NN	O
+look	4	VVP	O
+like	4	IN	O
+	
+show	4	VV	O
+me	2	PP	O
+pictures	8	NNS	O
+of	2	IN	O
+martin	6	NN	B-person.name
+scorsese	8	NN	I-person.name
+	
+photos	6	NNS	O
+of	2	IN	O
+steven	6	JJ	B-person.name
+spielberg	9	NN	I-person.name
+	
+i	1	NNS	O
+want	4	VVP	O
+to	2	TO	O
+see	3	VV	O
+images	6	NNS	O
+of	2	IN	O
+will	4	NN	B-person.name
+ferrell	7	NN	I-person.name
+	
+show	4	VV	O
+me	2	PP	O
+pictures	8	NNS	O
+of	2	IN	O
+woody	5	JJ	B-person.name
+allen	5	NN	I-person.name
+	
+what	4	WP	O
+are	3	VBP	O
+popular	7	JJ	O
+movie	5	NN	O
+producers	9	NNS	O
+	
+can	3	MD	O
+you	3	PP	O
+give	4	VV	O
+me	2	PP	O
+the	3	DT	O
+producer	8	NN	O
+	
+i	1	NP	O
+would	5	MD	O
+like	4	VV	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+rating	6	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+avatar	6	NN	B-movie.name
+	
+what	4	WP	O
+rating	6	NN	O
+is	2	VBZ	O
+the	3	DT	O
+movie	5	NN	O
+barfi	5	NN	B-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+rated	5	VVN	O
+	
+i	1	NNS	O
+need	4	VVP	O
+to	2	TO	O
+know	4	VV	O
+the	3	DT	O
+rating	6	NN	O
+of	2	IN	O
+grease	6	NN	B-movie.name
+	
+can	3	MD	O
+you	3	PP	O
+find	4	VV	O
+out	3	RP	O
+what	4	WP	O
+rating	6	NN	O
+the	3	DT	O
+movie	5	NN	O
+grease	6	NN	B-movie.name
+is	2	VBZ	O
+	
+what	4	WP	O
+is	2	VBZ	O
+kids	4	NNS	B-movie.name
+by	2	IN	O
+larry	5	NN	B-director.name
+clark	5	NN	I-director.name
+rated	5	VVN	O
+	
+what	4	WP	O
+rating	6	NN	O
+did	3	VVD	O
+marley	6	NN	B-movie.name
+and	3	CC	I-movie.name
+me	2	PP	I-movie.name
+receive	7	VVP	O
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+rating	6	NN	O
+for	3	IN	O
+mr	2	NN	B-movie.name
+and	3	CC	I-movie.name
+mrs	3	NN	I-movie.name
+smith	5	NN	I-movie.name
+	
+what	4	WP	O
+rating	6	NN	O
+did	3	VVD	O
+resident	8	JJ	B-movie.name
+evil	4	NN	I-movie.name
+receive	7	VV	O
+	
+rating	6	NN	O
+for	3	IN	O
+snow	4	NN	B-movie.name
+white	5	NN	I-movie.name
+and	3	CC	I-movie.name
+the	3	DT	I-movie.name
+huntsman	8	NN	I-movie.name
+	
+what	4	WP	O
+rating	6	NN	O
+is	2	VBZ	O
+step	4	NN	B-movie.name
+up	2	RB	I-movie.name
+	
+look	4	VV	O
+up	2	RP	O
+the	3	DT	O
+rating	6	NN	O
+of	2	IN	O
+the	3	DT	O
+movie	5	NN	O
+step	4	NN	B-movie.name
+up	2	RB	I-movie.name
+	
+what	4	WP	O
+rating	6	NN	O
+did	3	VVD	O
+the	3	DT	B-movie.name
+campaign	8	NN	I-movie.name
+movie	5	NN	O
+get	3	VV	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+rating	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+the	3	DT	B-movie.name
+expendables	11	NNS	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+rating	6	NN	O
+for	3	IN	O
+toy	3	JJ	B-movie.name
+story	5	NN	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+rating	6	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+toy	3	NN	B-movie.name
+story	5	NN	I-movie.name
+	
+rating	6	NN	O
+for	3	IN	O
+twilight	8	NN	B-movie.name
+breaking	8	VVG	I-movie.name
+dawn	4	NN	I-movie.name
+	
+what	4	WP	O
+was	3	VBD	O
+gross	5	JJ	O
+revenue	7	NN	O
+for	3	IN	O
+batman	6	NN	B-movie.name
+begins	6	VVZ	I-movie.name
+	
+how	3	WRB	O
+much	4	RB	O
+has	3	VHZ	O
+black	5	JJ	B-movie.name
+swan	4	NN	I-movie.name
+brought	7	VVN	O
+in	2	IN	O
+	
+find	4	VV	O
+the	3	DT	O
+revenue	7	NN	O
+for	3	IN	O
+downton	7	NN	B-movie.name
+abbey	5	NN	I-movie.name
+	
+find	4	VV	O
+the	3	DT	O
+revenue	7	NN	O
+of	2	IN	O
+edward	6	NN	B-movie.name
+scissor	7	VVP	I-movie.name
+hands	5	NNS	I-movie.name
+	
+what	4	WP	O
+is	2	VBZ	O
+the	3	DT	O
+most	4	JJS	O
+a	1	DT	O
+movie	5	NN	O
+made	4	VVD	O
+	
+reviews	7	NNS	O
+for	3	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+find	4	VV	O
+reviews	7	NNS	O
+for	3	IN	O
+dirty	5	JJ	B-movie.name
+dancing	7	NN	I-movie.name
+	
+what	4	WP	O
+are	3	VBP	O
+reviews	7	NNS	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+ratings	7	NNS	O
+and	3	CC	O
+review	6	NN	O
+on	2	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+reviews	7	NNS	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+reviews	7	NNS	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+reviews	7	NNS	O
+for	3	IN	O
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+	
+reviews	7	NNS	O
+for	3	IN	O
+movie	5	NN	O
+	
+reviews	7	NNS	O
+for	3	IN	O
+in	2	IN	B-movie.name
+july	4	NN	I-movie.name
+	
+what	4	WP	O
+are	3	VBP	O
+the	3	DT	O
+reviewers	9	NNS	O
+saying	6	VVG	O
+about	5	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+episode	7	NN	I-movie.name
+four	4	CD	I-movie.name
+	
+how	3	WRB	O
+long	4	RB	O
+is	2	VBZ	O
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beautiful	9	JJ	I-movie.name
+	
+synopsis	8	NN	O
+for	3	IN	O
+the	3	DT	O
+movie	5	NN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+synopsis	8	NN	O
+for	3	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+	
+summary	7	NN	O
+of	2	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+four	4	CD	I-movie.name
+	
+finding	7	VVG	B-movie.name
+nemo	4	NN	I-movie.name
+movie	5	NN	O
+shortcut	8	NN	O
+	
+show	4	VV	O
+me	2	PP	O
+the	3	DT	O
+trailer	7	NN	O
+for	3	IN	O
+house	5	NN	B-movie.name
+at	2	IN	I-movie.name
+the	3	DT	I-movie.name
+end	3	NN	I-movie.name
+of	2	IN	I-movie.name
+the	3	DT	I-movie.name
+street	6	NN	I-movie.name
+	
+life	4	NN	B-movie.name
+is	2	VBZ	I-movie.name
+beatiful	8	JJ	I-movie.name
+shortcut	8	NN	O
+	
+trailer	7	NN	O
+for	3	IN	O
+star	4	NN	B-movie.name
+wars	4	NNS	I-movie.name
+a	1	DT	I-movie.name
+new	3	JJ	I-movie.name
+hope	4	NN	I-movie.name
+	
+show	4	VV	O
+resident	8	JJ	B-movie.name
+evil	4	JJ	I-movie.name
+movies	6	NNS	O
+with	4	IN	O
+trailers	8	NNS	O
+	
+can	3	MD	O
+i	1	NNS	O
+see	3	VV	O
+previews	8	NNS	O
+for	3	IN	O
+upcoming	8	JJ	O
+warner	6	NN	B-producer.name
+brothers	8	NNS	I-producer.name
+movies	6	NNS	O
+	
+how	3	WRB	O
+many	4	JJ	O
+woody	5	JJ	B-director.name
+allen	5	NN	I-director.name
+movies	6	NNS	O
+are	3	VBP	O
+set	3	VVN	O
+in	2	IN	O
+new	3	JJ	B-movie.location
+york	4	VVP	I-movie.location
+city	4	NN	I-movie.location
+	
+how	3	WRB	O
+many	4	JJ	O
+scorsese	8	JJ	B-producer.name
+films	5	NNS	O
+were	4	VBD	O
+filmed	6	VVN	O
+in	2	IN	O
+france	6	NN	B-movie.location
+
+
